@@ -1,0 +1,150 @@
+{
+  "home": {
+    "hero": {
+      "title": "Mitra Sourcing Tepercaya Anda di China",
+      "subtitle": "Kami menghubungkan pembeli global dengan produsen China berkualitas. Alat medis, perawatan pribadi, dan lainnya.",
+      "cta_quote": "Dapatkan Penawaran",
+      "cta_products": "Lihat Produk",
+      "trust_1": "Bersertifikat CE & FDA",
+      "trust_2": "Harga Langsung Pabrik",
+      "trust_3": "Pengiriman Global"
+    },
+    "stats": {
+      "title": "Nova Link China dalam Angka",
+      "products": "Produk",
+      "products_val": "500+",
+      "suppliers": "Pabrik Mitra",
+      "suppliers_val": "50+",
+      "countries": "Negara Tujuan",
+      "countries_val": "30+",
+      "experience": "Pengalaman",
+      "experience_val": "15+ Tahun"
+    },
+    "categories": {
+      "title": "Produk Kami",
+      "subtitle": "Jelajahi kategori produk kami dari produsen China terbaik",
+      "medical": "Alat Medis",
+      "beauty": "Kecantikan",
+      "hair": "Produk Rambut",
+      "more": "Kategori Lain",
+      "view_all": "Lihat Semua Produk"
+    },
+    "why_us": {
+      "title": "Mengapa Memilih Nova Link China?",
+      "subtitle": "Apa yang membuat kami mitra sourcing ideal Anda",
+      "factory": {
+        "title": "Langsung Pabrik",
+        "desc": "Kemitraan langsung dengan produsen China terkemuka. Tanpa perantara, harga lebih baik."
+      },
+      "quality": {
+        "title": "Kualitas Terjamin",
+        "desc": "Semua produk memenuhi standar internasional: CE MDR, FDA, ISO13485."
+      },
+      "communication": {
+        "title": "Komunikasi Lancar",
+        "desc": "Berbicara langsung dengan tim kami dalam Bahasa Inggris, China, atau Indonesia."
+      },
+      "certification": {
+        "title": "Sertifikasi Lengkap",
+        "desc": "Kami menangani semua dokumen kepatuhan untuk bea cukai yang lancar."
+      },
+      "logistics": {
+        "title": "Logistik Global",
+        "desc": "Dari harga FOB hingga pengiriman pintu ke pintu. Solusi pengiriman fleksibel."
+      },
+      "moq": {
+        "title": "MOQ Fleksibel",
+        "desc": "Jumlah pesanan minimum yang kompetitif. Mulai dari kecil dan tingkatkan."
+      }
+    },
+    "certificates": {
+      "title": "Sertifikasi & Kepatuhan",
+      "subtitle": "Semua produk diproduksi di bawah sistem manajemen kualitas yang ketat"
+    },
+    "testimonials": {
+      "title": "Dipercaya Pembeli di Seluruh Dunia"
+    },
+    "cta": {
+      "title": "Siap sourcing dari China?",
+      "subtitle": "Beri tahu kebutuhan Anda dan kami akan merespon dalam 24 jam.",
+      "btn_inquiry": "Kirim Inquiry",
+      "btn_whatsapp": "Chat via WhatsApp"
+    }
+  },
+  "products": {
+    "title": "Produk Kami",
+    "subtitle": "Produk China berkualitas untuk pembeli global",
+    "category_all": "Semua",
+    "category_respiratory": "Pernapasan & Anestesi",
+    "category_catheter": "Kateter & Drainase",
+    "category_protection": "Pakaian Pelindung",
+    "download_spec": "Unduh Spesifikasi",
+    "send_inquiry": "Kirim Inquiry",
+    "whatsapp": "WhatsApp",
+    "features": "Fitur",
+    "applications": "Aplikasi",
+    "specifications": "Spesifikasi",
+    "related": "Produk Terkait",
+    "back": "← Kembali ke Produk",
+    "no_image": "Gambar Produk"
+  },
+  "about": {
+    "title": "Tentang Nova Link China",
+    "subtitle": "Jembatan Anda ke manufaktur China berkualitas",
+    "intro": "Nova Link China adalah perusahaan perdagangan yang berbasis di Zhengzhou, didedikasikan untuk menghubungkan pembeli global dengan produsen China terbaik. Kami berspesialisasi dalam alat medis, produk perawatan pribadi, dan barang konsumen.",
+    "mission": {
+      "title": "Misi Kami",
+      "text": "Menyederhanakan sourcing global dari China dengan menyediakan harga transparan, kualitas terjamin, dan komunikasi tanpa hambatan."
+    },
+    "advantage": {
+      "title": "Keunggulan Kami",
+      "text": "Berakar di Zhengzhou, pusat manufaktur China, kami memiliki kemitraan langsung jangka panjang dengan pabrik bersertifikat. Setiap produk diverifikasi kualitas dan kepatuhannya sebelum pengiriman."
+    }
+  },
+  "certificates": {
+    "title": "Sertifikasi Kami",
+    "subtitle": "Kualitas dan kepatuhan adalah inti dari semua yang kami lakukan",
+    "iso": "ISO 13485:2016 — Sistem manajemen mutu alat medis",
+    "ce": "CE MDR (EU 2017/745) — Kepatuhan pasar Eropa",
+    "fda": "FDA 510(k) — Izin pasar AS",
+    "cfs": "Certificate of Free Sale — Untuk registrasi internasional",
+    "note": "Kami hanya bekerja dengan pabrik yang memiliki sertifikasi ISO13485 aktif. Hubungi kami untuk salinan sertifikat spesifik."
+  },
+  "contact": {
+    "title": "Hubungi Kami",
+    "subtitle": "Beri tahu kebutuhan sourcing Anda dan kami akan merespon dalam 24 jam",
+    "form": {
+      "name": "Nama Lengkap *",
+      "company": "Nama Perusahaan *",
+      "email": "Alamat Email *",
+      "phone": "Telepon / WhatsApp *",
+      "product": "Produk yang Diminati",
+      "quantity": "Perkiraan Jumlah",
+      "message": "Pesan Anda (opsional)",
+      "submit_email": "Kirim via Email",
+      "submit_whatsapp": "Kirim via WhatsApp",
+      "success": "Terima kasih! Kami akan menghubungi Anda segera."
+    },
+    "info": {
+      "title": "Informasi Kontak",
+      "address": "Zhengdong New District, Zhengzhou, Henan, China",
+      "phone": "+86 371-xxxxxxx",
+      "email": "info@novalinkchina.com",
+      "hours": "Sen - Jum, 9:00 - 18:00 (GMT+8)"
+    }
+  },
+  "footer": {
+    "tagline": "Mitra sourcing tepercaya Anda yang menghubungkan pembeli global dengan produsen China berkualitas.",
+    "products": "Produk",
+    "company": "Perusahaan",
+    "about": "Tentang Kami",
+    "contact": "Kontak",
+    "certificates": "Sertifikat",
+    "inquiry": "Kirim Inquiry",
+    "rights": "Hak cipta dilindungi."
+  },
+  "common": {
+    "loading": "Memuat...",
+    "error": "Terjadi kesalahan"
+  }
+}

@@ -1,0 +1,210 @@
+﻿[
+  {
+    "id": "anesthesia-mask",
+    "slug": "anesthesia-mask",
+    "category": "respiratory",
+    "name": { "en": "Anesthesia Mask", "zh": "麻醉面罩", "id": "Masker Anestesi" },
+    "model": "NL-AM01",
+    "features": {
+      "en": ["Latex-free", "Medical-grade PVC", "Transparent design", "Soft cushion seal", "CE MDR certified", "Sterile"],
+      "zh": ["无乳胶", "医用级PVC", "透明设计", "柔软气垫密封", "CE MDR认证", "环氧乙烷灭菌"],
+      "id": ["Bebas lateks", "PVC medis", "Desain transparan", "Bantalan lembut", "Sertifikasi CE MDR", "Steril"]
+    },
+    "specs": [
+      { "key": "Size", "value": { "en": "S / M / L", "zh": "S / M / L", "id": "S / M / L" } },
+      { "key": "Material", "value": { "en": "Medical-grade PVC", "zh": "医用级PVC", "id": "PVC medis" } },
+      { "key": "Packaging", "value": { "en": "50 pcs/box", "zh": "50个/箱", "id": "50 pcs/kotak" } },
+      { "key": "MOQ", "value": { "en": "1,000 pcs", "zh": "1000个", "id": "1.000 pcs" } },
+      { "key": "Lead Time", "value": { "en": "15-25 days", "zh": "15-25天", "id": "15-25 hari" } },
+      { "key": "Certification", "value": { "en": "CE MDR, FDA, ISO13485", "zh": "CE MDR、FDA、ISO13485", "id": "CE MDR, FDA, ISO13485" } }
+    ],
+    "description": {
+      "en": "Premium anesthesia mask for safe and comfortable ventilation during anesthesia. Transparent dome allows continuous monitoring while soft cushion ensures secure seal.",
+      "zh": "优质麻醉面罩，专为麻醉期间安全舒适的通气设计。透明穹顶可连续观察，柔软气垫确保可靠密封。",
+      "id": "Masker anestesi premium untuk ventilasi yang aman dan nyaman. Kubah transparan memungkinkan pemantauan berkelanjutan."
+    },
+    "applications": {
+      "en": ["Surgery", "ICU", "Emergency", "Recovery Room"],
+      "zh": ["手术室", "重症监护", "急诊", "恢复室"],
+      "id": ["Bedah", "ICU", "Darurat", "Ruang Pemulihan"]
+    }
+  },
+  {
+    "id": "oxygen-mask",
+    "slug": "oxygen-mask",
+    "category": "respiratory",
+    "name": { "en": "Oxygen Mask", "zh": "氧气面罩", "id": "Masker Oksigen" },
+    "model": "NL-OM01",
+    "features": {
+      "en": ["Latex-free", "Medical-grade PVC", "Adjustable nose clip", "Kink-resistant tube", "CE MDR certified", "Sterile"],
+      "zh": ["无乳胶", "医用级PVC", "可调节鼻夹", "抗折管", "CE MDR认证", "环氧乙烷灭菌"],
+      "id": ["Bebas lateks", "PVC medis", "Klip hidung dapat disetel", "Tabung tahan tekuk", "Sertifikasi CE MDR", "Steril"]
+    },
+    "specs": [
+      { "key": "Size", "value": { "en": "Adult / Pediatric", "zh": "成人/儿童", "id": "Dewasa / Anak" } },
+      { "key": "Material", "value": { "en": "Medical-grade PVC", "zh": "医用级PVC", "id": "PVC medis" } },
+      { "key": "Tube Length", "value": { "en": "2.1 m", "zh": "2.1米", "id": "2,1 m" } },
+      { "key": "Packaging", "value": { "en": "50 pcs/box", "zh": "50个/箱", "id": "50 pcs/kotak" } },
+      { "key": "MOQ", "value": { "en": "1,000 pcs", "zh": "1000个", "id": "1.000 pcs" } },
+      { "key": "Certification", "value": { "en": "CE MDR, FDA, ISO13485", "zh": "CE MDR、FDA、ISO13485", "id": "CE MDR, FDA, ISO13485" } }
+    ],
+    "description": {
+      "en": "High-quality oxygen mask for effective oxygen delivery. Adjustable nose clip for custom fit. Suitable for adult and pediatric patients.",
+      "zh": "高品质氧气面罩，有效供氧。可调节鼻夹确保贴合。适用于成人和儿童。",
+      "id": "Masker oksigen berkualitas untuk pengiriman oksigen efektif. Klip hidung dapat disetel. Cocok untuk dewasa dan anak."
+    },
+    "applications": {
+      "en": ["Oxygen Therapy", "Respiratory Care", "Emergency", "Post-Surgery"],
+      "zh": ["氧疗", "呼吸治疗", "急诊", "术后"],
+      "id": ["Terapi Oksigen", "Perawatan Napas", "Darurat", "Pasca Bedah"]
+    }
+  },
+  {
+    "id": "nasal-cannula",
+    "slug": "nasal-cannula",
+    "category": "respiratory",
+    "name": { "en": "Nasal Oxygen Cannula", "zh": "鼻氧管", "id": "Kanula Oksigen" },
+    "model": "NL-NC01",
+    "features": {
+      "en": ["Latex-free", "Medical-grade PVC", "Soft prongs", "Adjustable headband", "Lightweight design", "CE MDR certified"],
+      "zh": ["无乳胶", "医用级PVC", "柔软鼻塞", "可调节头带", "轻量化设计", "CE MDR认证"],
+      "id": ["Bebas lateks", "PVC medis", "Prong lembut", "Ikat kepala dapat disetel", "Desain ringan", "Sertifikasi CE MDR"]
+    },
+    "specs": [
+      { "key": "Material", "value": { "en": "Medical-grade PVC", "zh": "医用级PVC", "id": "PVC medis" } },
+      { "key": "Tube Length", "value": { "en": "2.1 m", "zh": "2.1米", "id": "2,1 m" } },
+      { "key": "Packaging", "value": { "en": "50 pcs/box", "zh": "50个/箱", "id": "50 pcs/kotak" } },
+      { "key": "MOQ", "value": { "en": "2,000 pcs", "zh": "2000个", "id": "2.000 pcs" } },
+      { "key": "Certification", "value": { "en": "CE MDR, FDA, ISO13485", "zh": "CE MDR、FDA、ISO13485", "id": "CE MDR, FDA, ISO13485" } }
+    ],
+    "description": {
+      "en": "Comfortable nasal cannula for supplemental oxygen. Soft prongs ensure patient comfort during extended use.",
+      "zh": "舒适的鼻氧管，用于补充供氧。柔软鼻塞确保长时间使用舒适。",
+      "id": "Kanula hidung nyaman untuk oksigen tambahan. Prong lembut memastikan kenyamanan penggunaan jangka panjang."
+    },
+    "applications": {
+      "en": ["Oxygen Therapy", "Respiratory Care", "Home Care"],
+      "zh": ["氧疗", "呼吸治疗", "家庭护理"],
+      "id": ["Terapi Oksigen", "Perawatan Napas", "Perawatan Rumah"]
+    }
+  },
+  {
+    "id": "anesthesia-circuit",
+    "slug": "anesthesia-circuit",
+    "category": "respiratory",
+    "name": { "en": "Anesthesia Breathing Circuit", "zh": "麻醉呼吸回路", "id": "Sirkuit Napas Anestesi" },
+    "model": "NL-ABC01",
+    "features": {
+      "en": ["Latex-free", "Medical-grade materials", "Kink-resistant tubing", "Standard 22mm connector", "CE MDR certified", "Sterile"],
+      "zh": ["无乳胶", "医用级材料", "抗折管道", "标准22mm接口", "CE MDR认证", "环氧乙烷灭菌"],
+      "id": ["Bebas lateks", "Bahan medis", "Tabung tahan tekuk", "Konektor 22mm standar", "Sertifikasi CE MDR", "Steril"]
+    },
+    "specs": [
+      { "key": "Length", "value": { "en": "1.8 m / 2.4 m", "zh": "1.8米/2.4米", "id": "1,8 m / 2,4 m" } },
+      { "key": "Connector", "value": { "en": "22mm OD / 15mm ID", "zh": "22mm外径/15mm内径", "id": "22mm OD / 15mm ID" } },
+      { "key": "Packaging", "value": { "en": "30 pcs/box", "zh": "30个/箱", "id": "30 pcs/kotak" } },
+      { "key": "MOQ", "value": { "en": "500 pcs", "zh": "500个", "id": "500 pcs" } },
+      { "key": "Certification", "value": { "en": "CE MDR, FDA, ISO13485", "zh": "CE MDR、FDA、ISO13485", "id": "CE MDR, FDA, ISO13485" } }
+    ],
+    "description": {
+      "en": "Professional anesthesia breathing circuit for reliable gas delivery. Standard 22mm connectors compatible with most anesthesia machines.",
+      "zh": "专业麻醉呼吸回路，可靠输送气体。标准22mm接口兼容大多数麻醉机。",
+      "id": "Sirkuit napas anestesi profesional untuk pengiriman gas andal. Konektor 22mm kompatibel dengan sebagian besar mesin anestesi."
+    },
+    "applications": {
+      "en": ["Anesthesia", "ICU Ventilation", "Emergency"],
+      "zh": ["麻醉", "ICU通气", "急诊"],
+      "id": ["Anestesi", "Ventilasi ICU", "Darurat"]
+    }
+  },
+  {
+    "id": "endotracheal-tube",
+    "slug": "endotracheal-tube",
+    "category": "respiratory",
+    "name": { "en": "Endotracheal Tube", "zh": "气管插管", "id": "Tabung Endotrakeal" },
+    "model": "NL-ET01",
+    "features": {
+      "en": ["HVLP cuff", "Medical-grade PVC", "Depth markings", "Atraumatic tip", "CE MDR certified", "Sterile"],
+      "zh": ["高容量低压气囊", "医用级PVC", "深度标记", "无创尖端", "CE MDR认证", "灭菌"],
+      "id": ["Cuff HVLP", "PVC medis", "Tanda kedalaman", "Ujung atraumatik", "Sertifikasi CE MDR", "Steril"]
+    },
+    "specs": [
+      { "key": "Size", "value": { "en": "ID 6.0 - 8.5 mm", "zh": "内径6.0-8.5mm", "id": "ID 6,0 - 8,5 mm" } },
+      { "key": "Material", "value": { "en": "Medical-grade PVC", "zh": "医用级PVC", "id": "PVC medis" } },
+      { "key": "Cuff", "value": { "en": "High Volume Low Pressure", "zh": "高容量低压", "id": "HVLP" } },
+      { "key": "Packaging", "value": { "en": "10 pcs/box", "zh": "10个/箱", "id": "10 pcs/kotak" } },
+      { "key": "MOQ", "value": { "en": "500 pcs", "zh": "500个", "id": "500 pcs" } },
+      { "key": "Certification", "value": { "en": "CE MDR, FDA, ISO13485", "zh": "CE MDR、FDA、ISO13485", "id": "CE MDR, FDA, ISO13485" } }
+    ],
+    "description": {
+      "en": "High-quality endotracheal tube with HVLP cuff for effective airway management. Clear depth markings facilitate accurate placement.",
+      "zh": "高品质气管插管，配备高容量低压气囊。清晰深度标记便于准确定位。",
+      "id": "Tabung endotrakeal berkualitas dengan cuff HVLP untuk manajemen jalan napas efektif."
+    },
+    "applications": {
+      "en": ["General Anesthesia", "ICU", "Emergency"],
+      "zh": ["全身麻醉", "重症监护", "紧急插管"],
+      "id": ["Anestesi Umum", "ICU", "Darurat"]
+    }
+  },
+  {
+    "id": "urinary-catheter",
+    "slug": "urinary-catheter",
+    "category": "catheter",
+    "name": { "en": "Foley Urinary Catheter", "zh": "导尿管", "id": "Kateter Urin Foley" },
+    "model": "NL-UC01",
+    "features": {
+      "en": ["100% silicone", "Smooth balloon tip", "Radiopaque line", "Latex-free", "CE MDR certified", "Sterile"],
+      "zh": ["100%硅胶", "光滑气囊尖端", "显影线", "无乳胶", "CE MDR认证", "灭菌"],
+      "id": ["100% silikon", "Ujung balon halus", "Garis radiopak", "Bebas lateks", "Sertifikasi CE MDR", "Steril"]
+    },
+    "specs": [
+      { "key": "Size", "value": { "en": "FR 12 - FR 24", "zh": "FR 12 - FR 24", "id": "FR 12 - FR 24" } },
+      { "key": "Material", "value": { "en": "100% Medical-grade Silicone", "zh": "100%医用级硅胶", "id": "100% Silikon medis" } },
+      { "key": "Balloon", "value": { "en": "5-10 ml / 30 ml", "zh": "5-10ml/30ml", "id": "5-10 ml / 30 ml" } },
+      { "key": "Packaging", "value": { "en": "20 pcs/box", "zh": "20个/箱", "id": "20 pcs/kotak" } },
+      { "key": "MOQ", "value": { "en": "500 pcs", "zh": "500个", "id": "500 pcs" } },
+      { "key": "Certification", "value": { "en": "CE MDR, FDA, ISO13485", "zh": "CE MDR、FDA、ISO13485", "id": "CE MDR, FDA, ISO13485" } }
+    ],
+    "description": {
+      "en": "Premium 100% silicone Foley catheter for comfortable urinary drainage. Radiopaque line enables X-ray verification of placement.",
+      "zh": "优质100%硅胶Foley导管，舒适引流。显影线可通过X射线确认位置。",
+      "id": "Kateter Foley premium 100% silikon untuk drainase urin yang nyaman."
+    },
+    "applications": {
+      "en": ["Urinary Drainage", "Post-Surgery", "ICU", "Long-term Care"],
+      "zh": ["尿液引流", "术后", "重症监护", "长期护理"],
+      "id": ["Drainase Urin", "Pasca Bedah", "ICU", "Perawatan Jangka Panjang"]
+    }
+  },
+  {
+    "id": "surgical-gown",
+    "slug": "surgical-gown",
+    "category": "protection",
+    "name": { "en": "Surgical Gown", "zh": "手术衣", "id": "Gaun Bedah" },
+    "model": "NL-SG01",
+    "features": {
+      "en": ["SMS non-woven fabric", "Anti-static", "Elastic cuffs", "Tie closure", "Latex-free", "100% polypropylene"],
+      "zh": ["SMS无纺布", "防静电", "弹性袖口", "后系带", "无乳胶", "100%聚丙烯"],
+      "id": ["Kain non-woven SMS", "Anti-statis", "Manset elastis", "Ikat belakang", "Bebas lateks", "100% polipropilen"]
+    },
+    "specs": [
+      { "key": "Material", "value": { "en": "100% Polypropylene SMS", "zh": "100%聚丙烯SMS", "id": "100% Polipropilen SMS" } },
+      { "key": "Weight", "value": { "en": "30-45 gsm", "zh": "30-45克/平米", "id": "30-45 gsm" } },
+      { "key": "Size", "value": { "en": "M / L / XL / XXL", "zh": "M/L/XL/XXL", "id": "M/L/XL/XXL" } },
+      { "key": "Packaging", "value": { "en": "50 pcs/box", "zh": "50件/箱", "id": "50 pcs/kotak" } },
+      { "key": "MOQ", "value": { "en": "2,000 pcs", "zh": "2000件", "id": "2.000 pcs" } },
+      { "key": "Certification", "value": { "en": "ISO13485", "zh": "ISO13485", "id": "ISO13485" } }
+    ],
+    "description": {
+      "en": "High-quality disposable surgical gown from SMS non-woven fabric. Effective barrier protection during procedures. Lightweight and durable.",
+      "zh": "高品质一次性手术衣，SMS无纺布制成。有效屏障保护，轻便耐用。",
+      "id": "Gaun bedah sekali pakai berkualitas dari kain non-woven SMS. Perlindungan penghalang efektif."
+    },
+    "applications": {
+      "en": ["Surgery", "Medical Exam", "Isolation", "Laboratory"],
+      "zh": ["手术", "检查", "隔离", "实验室"],
+      "id": ["Bedah", "Pemeriksaan", "Isolasi", "Laboratorium"]
+    }
+  }
+]

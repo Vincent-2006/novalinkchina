@@ -1,0 +1,150 @@
+{
+  "home": {
+    "hero": {
+      "title": "Your Trusted Sourcing Partner in China",
+      "subtitle": "We connect global buyers with premium Chinese manufacturers. Medical devices, personal care, and beyond.",
+      "cta_quote": "Get a Free Quote",
+      "cta_products": "View Products",
+      "trust_1": "CE & FDA Certified",
+      "trust_2": "Factory-Direct Pricing",
+      "trust_3": "Global Shipping"
+    },
+    "stats": {
+      "title": "Nova Link China in Numbers",
+      "products": "Products",
+      "products_val": "500+",
+      "suppliers": "Partner Factories",
+      "suppliers_val": "50+",
+      "countries": "Countries Exported To",
+      "countries_val": "30+",
+      "experience": "Years Experience",
+      "experience_val": "15+"
+    },
+    "categories": {
+      "title": "Our Products",
+      "subtitle": "Browse our product categories sourced from China's finest manufacturers",
+      "medical": "Medical Devices",
+      "beauty": "Beauty & Personal Care",
+      "hair": "Hair Products",
+      "more": "More Categories",
+      "view_all": "View All Products"
+    },
+    "why_us": {
+      "title": "Why Choose Nova Link China?",
+      "subtitle": "What makes us your ideal sourcing partner",
+      "factory": {
+        "title": "Factory Direct",
+        "desc": "Direct partnerships with top Chinese manufacturers. No middlemen, better pricing."
+      },
+      "quality": {
+        "title": "Quality Assured",
+        "desc": "All products meet international standards: CE MDR, FDA, ISO13485 certified."
+      },
+      "communication": {
+        "title": "Seamless Communication",
+        "desc": "Speak directly with our team in English, Chinese, or Bahasa Indonesia."
+      },
+      "certification": {
+        "title": "Full Certification",
+        "desc": "We handle all compliance documentation for smooth customs clearance."
+      },
+      "logistics": {
+        "title": "Global Logistics",
+        "desc": "From FOB pricing to door-to-door delivery. Flexible shipping solutions."
+      },
+      "moq": {
+        "title": "Flexible MOQ",
+        "desc": "Competitive minimum order quantities. Start small and scale up."
+      }
+    },
+    "certificates": {
+      "title": "Certifications & Compliance",
+      "subtitle": "All products manufactured under strict quality management systems"
+    },
+    "testimonials": {
+      "title": "Trusted by Buyers Worldwide"
+    },
+    "cta": {
+      "title": "Ready to source from China?",
+      "subtitle": "Tell us what you need and we'll get back to you within 24 hours.",
+      "btn_inquiry": "Send Us Your Inquiry",
+      "btn_whatsapp": "Chat on WhatsApp"
+    }
+  },
+  "products": {
+    "title": "Our Products",
+    "subtitle": "Premium Chinese-manufactured products for global buyers",
+    "category_all": "All",
+    "category_respiratory": "Respiratory & Anesthesia",
+    "category_catheter": "Catheters & Drainage",
+    "category_protection": "Protective Apparel",
+    "download_spec": "Download Spec Sheet",
+    "send_inquiry": "Send Inquiry",
+    "whatsapp": "WhatsApp",
+    "features": "Features",
+    "applications": "Applications",
+    "specifications": "Specifications",
+    "related": "Related Products",
+    "back": "← Back to Products",
+    "no_image": "Product Image"
+  },
+  "about": {
+    "title": "About Nova Link China",
+    "subtitle": "Your bridge to quality Chinese manufacturing",
+    "intro": "Nova Link China is a Zhengzhou-based trading company dedicated to connecting global buyers with China's finest manufacturers. We specialize in medical devices, personal care products, and consumer goods — leveraging deep relationships with factories in Henan province and beyond.",
+    "mission": {
+      "title": "Our Mission",
+      "text": "To simplify global sourcing from China by providing transparent pricing, uncompromised quality, and seamless communication across languages and cultures."
+    },
+    "advantage": {
+      "title": "Our Advantage",
+      "text": "Rooted in Zhengzhou, at the heart of China's manufacturing hub, we have direct, long-term partnerships with certified factories. Every product is verified for quality and compliance before shipment."
+    }
+  },
+  "certificates": {
+    "title": "Our Certifications",
+    "subtitle": "Quality and compliance are at the core of everything we do",
+    "iso": "ISO 13485:2016 — Medical devices quality management system",
+    "ce": "CE MDR (EU 2017/745) — European market compliance",
+    "fda": "FDA 510(k) — US market clearance",
+    "cfs": "Certificate of Free Sale — For international registration",
+    "note": "We work exclusively with factories that maintain active ISO13485 certification and applicable product registrations. Contact us for specific certificate copies."
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Tell us about your sourcing needs and we'll respond within 24 hours",
+    "form": {
+      "name": "Full Name *",
+      "company": "Company Name *",
+      "email": "Email Address *",
+      "phone": "Phone / WhatsApp *",
+      "product": "Product of Interest",
+      "quantity": "Estimated Quantity",
+      "message": "Your Message (optional)",
+      "submit_email": "Send via Email",
+      "submit_whatsapp": "Send via WhatsApp",
+      "success": "Thank you! We'll get back to you shortly."
+    },
+    "info": {
+      "title": "Contact Information",
+      "address": "Zhengdong New District, Zhengzhou, Henan, China",
+      "phone": "+86 371-xxxxxxx",
+      "email": "info@novalinkchina.com",
+      "hours": "Mon - Fri, 9:00 - 18:00 (GMT+8)"
+    }
+  },
+  "footer": {
+    "tagline": "Your trusted sourcing partner connecting global buyers with premium Chinese manufacturers.",
+    "products": "Products",
+    "company": "Company",
+    "about": "About Us",
+    "contact": "Contact",
+    "certificates": "Certificates",
+    "inquiry": "Send Inquiry",
+    "rights": "All rights reserved."
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong"
+  }
+}

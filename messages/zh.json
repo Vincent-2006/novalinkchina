@@ -1,0 +1,150 @@
+{
+  "home": {
+    "hero": {
+      "title": "您值得信赖的中国采购伙伴",
+      "subtitle": "连接全球买家与中国优质制造商。医疗器械、个人护理、更多品类。",
+      "cta_quote": "获取报价",
+      "cta_products": "浏览产品",
+      "trust_1": "CE及FDA认证",
+      "trust_2": "工厂直供价格",
+      "trust_3": "全球物流配送"
+    },
+    "stats": {
+      "title": "盈联中国数据",
+      "products": "产品数量",
+      "products_val": "500+",
+      "suppliers": "合作工厂",
+      "suppliers_val": "50+",
+      "countries": "出口国家",
+      "countries_val": "30+",
+      "experience": "行业经验",
+      "experience_val": "15+年"
+    },
+    "categories": {
+      "title": "我们的产品",
+      "subtitle": "浏览来自中国优质制造商的各类产品",
+      "medical": "医疗器械",
+      "beauty": "美容个护",
+      "hair": "发制品",
+      "more": "更多品类",
+      "view_all": "查看所有产品"
+    },
+    "why_us": {
+      "title": "为什么选择盈联中国",
+      "subtitle": "我们为何是您理想的采购伙伴",
+      "factory": {
+        "title": "工厂直供",
+        "desc": "与中国顶级工厂直接合作，去中间商，价格更优。"
+      },
+      "quality": {
+        "title": "品质保障",
+        "desc": "所有产品符合国际标准：CE MDR、FDA、ISO13485认证。"
+      },
+      "communication": {
+        "title": "沟通无障碍",
+        "desc": "我们的团队可用中文、英文、印尼文直接沟通。"
+      },
+      "certification": {
+        "title": "资质齐全",
+        "desc": "我们处理所有合规文件，确保通关顺利。"
+      },
+      "logistics": {
+        "title": "全球物流",
+        "desc": "从FOB报价到门到门配送，灵活物流方案。"
+      },
+      "moq": {
+        "title": "起订灵活",
+        "desc": "有竞争力的最小起订量，从小单到大单均可。"
+      }
+    },
+    "certificates": {
+      "title": "资质与合规",
+      "subtitle": "所有产品均在严格的质量管理体系下生产"
+    },
+    "testimonials": {
+      "title": "全球客户信赖之选"
+    },
+    "cta": {
+      "title": "准备从中国采购了吗？",
+      "subtitle": "告诉我们您的需求，我们将在24小时内回复。",
+      "btn_inquiry": "发送询盘",
+      "btn_whatsapp": "WhatsApp咨询"
+    }
+  },
+  "products": {
+    "title": "我们的产品",
+    "subtitle": "面向全球买家的优质中国制造产品",
+    "category_all": "全部",
+    "category_respiratory": "呼吸麻醉类",
+    "category_catheter": "导管类",
+    "category_protection": "防护用品",
+    "download_spec": "下载规格表",
+    "send_inquiry": "发送询盘",
+    "whatsapp": "WhatsApp",
+    "features": "产品特点",
+    "applications": "适用范围",
+    "specifications": "规格参数",
+    "related": "相关产品",
+    "back": "← 返回产品列表",
+    "no_image": "产品图片"
+  },
+  "about": {
+    "title": "关于盈联中国",
+    "subtitle": "连接您与中国优质制造商的桥梁",
+    "intro": "盈联中国是一家总部位于郑州的贸易公司，致力于连接全球买家与中国优质制造商。我们专注于医疗器械、个人护理产品和消费品，与河南省及全国各地的优质工厂建立了深厚的合作关系。",
+    "mission": {
+      "title": "我们的使命",
+      "text": "通过提供透明的价格、可靠的品质和跨语言跨文化的无缝沟通，简化从中国的全球采购流程。"
+    },
+    "advantage": {
+      "title": "我们的优势",
+      "text": "扎根郑州——中国制造业核心区域，我们与认证工厂建立了长期直接合作关系。每一件产品在发货前都经过质量和合规验证。"
+    }
+  },
+  "certificates": {
+    "title": "资质认证",
+    "subtitle": "质量和合规是我们一切工作的核心",
+    "iso": "ISO 13485:2016 — 医疗器械质量管理体系",
+    "ce": "CE MDR (EU 2017/745) — 欧盟市场合规",
+    "fda": "FDA 510(k) — 美国市场准入",
+    "cfs": "自由销售证书 — 用于国际注册",
+    "note": "我们仅与持有有效ISO13485认证及相关产品注册的工厂合作。联系我们可以获取具体的证书复印件。"
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "告诉我们您的采购需求，我们将在24小时内回复",
+    "form": {
+      "name": "姓名 *",
+      "company": "公司名称 *",
+      "email": "邮箱地址 *",
+      "phone": "手机号 / WhatsApp *",
+      "product": "感兴趣的产品",
+      "quantity": "预估数量",
+      "message": "您的留言（选填）",
+      "submit_email": "通过邮件发送",
+      "submit_whatsapp": "通过WhatsApp发送",
+      "success": "感谢您的询盘！我们将尽快回复。"
+    },
+    "info": {
+      "title": "联系信息",
+      "address": "中国河南省郑州市郑东新区",
+      "phone": "+86 371-xxxxxxx",
+      "email": "info@novalinkchina.com",
+      "hours": "周一至周五 9:00 - 18:00"
+    }
+  },
+  "footer": {
+    "tagline": "您值得信赖的中国采购伙伴，连接全球买家与中国优质制造商。",
+    "products": "产品",
+    "company": "公司",
+    "about": "关于我们",
+    "contact": "联系我们",
+    "certificates": "资质证书",
+    "inquiry": "发送询盘",
+    "rights": "保留所有权利。"
+  },
+  "common": {
+    "loading": "加载中...",
+    "error": "出现错误"
+  }
+}
