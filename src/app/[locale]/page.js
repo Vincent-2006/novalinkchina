@@ -8,7 +8,7 @@ export function generateStaticParams() {
 
 export default async function HomePage({ params: { locale } }) {
   unstable_setRequestLocale(locale);
-  const t = await getTranslations({ locale, namespace: '' });
+  const t = await getTranslations({ locale, namespace: 'home' });
 
   const categories = [
     { key: 'medical', icon: '🏥' },
