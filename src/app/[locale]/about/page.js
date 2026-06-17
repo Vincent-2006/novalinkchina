@@ -6,7 +6,7 @@ export function generateStaticParams() {
 
 export default async function AboutPage({ params: { locale } }) {
   unstable_setRequestLocale(locale);
-  const t = await getTranslations({ locale, namespace: '' });
+  const t = await getTranslations({ locale, namespace: 'about' });
 
   return (
     <div className="bg-white min-h-screen">

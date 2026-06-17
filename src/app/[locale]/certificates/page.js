@@ -6,7 +6,7 @@ export function generateStaticParams() {
 
 export default async function CertificatesPage({ params: { locale } }) {
   unstable_setRequestLocale(locale);
-  const t = await getTranslations({ locale, namespace: '' });
+  const t = await getTranslations({ locale, namespace: 'certificates' });
 
   const certs = [
     { name: 'ISO 13485', label: 'iso', icon: '📋' },
