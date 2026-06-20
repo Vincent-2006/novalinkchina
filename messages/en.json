@@ -2,7 +2,7 @@
   "home": {
     "hero": {
       "title": "Your Trusted Sourcing Partner in China",
-      "subtitle": "We connect global buyers with premium Chinese manufacturers. Medical devices, personal care, and beyond.",
+      "subtitle": "We connect global buyers with premium Chinese manufacturers specializing in medical devices.",
       "cta_quote": "Get a Free Quote",
       "cta_products": "View Products",
       "trust_1": "CE & FDA Certified",
@@ -19,15 +19,6 @@
       "countries_val": "30+",
       "experience": "Years Experience",
       "experience_val": "15+"
-    },
-    "categories": {
-      "title": "Our Products",
-      "subtitle": "Browse our product categories sourced from China's finest manufacturers",
-      "medical": "Medical Devices",
-      "beauty": "Beauty & Personal Care",
-      "hair": "Hair Products",
-      "more": "More Categories",
-      "view_all": "View All Products"
     },
     "why_us": {
       "title": "Why Choose Nova Link China?",
@@ -91,7 +82,7 @@
   "about": {
     "title": "About Nova Link China",
     "subtitle": "Your bridge to quality Chinese manufacturing",
-    "intro": "Nova Link China is a Zhengzhou-based trading company dedicated to connecting global buyers with China's finest manufacturers. We specialize in medical devices, personal care products, and consumer goods — leveraging deep relationships with factories in Henan province and beyond.",
+    "intro": "Nova Link China is a Zhengzhou-based trading company dedicated to connecting global buyers with China's finest manufacturers. We specialize in medical devices — leveraging deep relationships with factories in Henan province and beyond.",
     "mission": {
       "title": "Our Mission",
       "text": "To simplify global sourcing from China by providing transparent pricing, uncompromised quality, and seamless communication across languages and cultures."
@@ -128,8 +119,8 @@
     "info": {
       "title": "Contact Information",
       "address": "Zhengdong New District, Zhengzhou, Henan, China",
-      "phone": "+86 371-xxxxxxx",
-      "email": "info@novalinkchina.com",
+      "phone": "+86 371-6685 1110",
+      "email": "jdswj2006@gmail.com",
       "hours": "Mon - Fri, 9:00 - 18:00 (GMT+8)"
     }
   },

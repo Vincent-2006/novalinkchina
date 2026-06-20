@@ -41,6 +41,10 @@ export default async function ContactPage({ params: { locale } }) {
                 <span>🕐</span>
                 <span>{t('info.hours')}</span>
               </li>
+              <li className="flex items-start gap-3">
+                <span>💬</span>
+                <a href="https://wa.me/8615038302121" target="_blank" rel="noopener noreferrer" className="text-[#00a651] hover:text-[#00c85e]">+86 15038302121</a>
+              </li>
             </ul>
           </div>
         </div>

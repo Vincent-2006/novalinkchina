@@ -46,9 +46,11 @@ export default function Footer({ locale }) {
           <div>
             <h3 className="font-semibold text-white mb-4 text-sm uppercase tracking-wider">{t.products}</h3>
             <ul className="space-y-2">
-              <li><Link href="/products" className="text-gray-300 hover:text-white text-sm transition-colors">Anesthesia Mask</Link></li>
-              <li><Link href="/products" className="text-gray-300 hover:text-white text-sm transition-colors">Oxygen Mask</Link></li>
-              <li><Link href="/products" className="text-gray-300 hover:text-white text-sm transition-colors">Breathing Circuit</Link></li>
+              <li><Link href="/products" className="text-gray-300 hover:text-white text-sm transition-colors">{locale === 'zh' ? '麻醉面罩' : 'Anesthesia Mask'}</Link></li>
+              <li><Link href="/products" className="text-gray-300 hover:text-white text-sm transition-colors">{locale === 'zh' ? '氧气面罩' : 'Oxygen Mask'}</Link></li>
+              <li><Link href="/products" className="text-gray-300 hover:text-white text-sm transition-colors">{locale === 'zh' ? '麻醉回路' : 'Breathing Circuit'}</Link></li>
+              <li><Link href="/products" className="text-gray-300 hover:text-white text-sm transition-colors">{locale === 'zh' ? '气管插管' : 'Endotracheal Tube'}</Link></li>
+              <li><Link href="/products" className="text-gray-300 hover:text-white text-sm transition-colors">{locale === 'zh' ? '导尿管' : 'Foley Catheter'}</Link></li>
             </ul>
           </div>
           <div>
@@ -63,11 +65,11 @@ export default function Footer({ locale }) {
             <h3 className="font-semibold text-white mb-4 text-sm uppercase tracking-wider">{t.contact}</h3>
             <ul className="space-y-3 text-sm text-gray-300">
               <li className="flex items-start space-x-2"><span>📍</span><span>{t.address}</span></li>
-              <li className="flex items-center space-x-2"><span>📞</span><span>+86 371-xxxxxxx</span></li>
-              <li className="flex items-center space-x-2"><span>📧</span><span>info@novalinkchina.com</span></li>
+              <li className="flex items-center space-x-2"><span>📞</span><span>+86 371-6685 1110</span></li>
+              <li className="flex items-center space-x-2"><span>📧</span><span>jdswj2006@gmail.com</span></li>
               <li className="flex items-center space-x-2">
                 <span>💬</span>
-                <a href="https://wa.me/861234567890" target="_blank" rel="noopener noreferrer" className="text-[#00a651] hover:text-[#00c85e]">WhatsApp</a>
+                <a href="https://wa.me/8615038302121" target="_blank" rel="noopener noreferrer" className="text-[#00a651] hover:text-[#00c85e]">+86 15038302121</a>
               </li>
             </ul>
           </div>

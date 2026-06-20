@@ -4,7 +4,7 @@ export default function ProductCard({ product, locale }) {
   const name = product.name[locale] || product.name.en;
   const features = product.features[locale] || product.features.en;
   const model = product.model;
-  const icons = { respiratory: '🫁', catheter: '🩺', protection: '🥼' };
+  const icons = { respiratory: '🫁', catheter: '🩺', protection: '🥼', surgical: '🏥' };
 
   return (
     <Link href={'/products/' + product.slug}

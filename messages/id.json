@@ -2,7 +2,7 @@
   "home": {
     "hero": {
       "title": "Mitra Sourcing Tepercaya Anda di China",
-      "subtitle": "Kami menghubungkan pembeli global dengan produsen China berkualitas. Alat medis, perawatan pribadi, dan lainnya.",
+      "subtitle": "Kami menghubungkan pembeli global dengan produsen alat medis China berkualitas.",
       "cta_quote": "Dapatkan Penawaran",
       "cta_products": "Lihat Produk",
       "trust_1": "Bersertifikat CE & FDA",
@@ -19,15 +19,6 @@
       "countries_val": "30+",
       "experience": "Pengalaman",
       "experience_val": "15+ Tahun"
-    },
-    "categories": {
-      "title": "Produk Kami",
-      "subtitle": "Jelajahi kategori produk kami dari produsen China terbaik",
-      "medical": "Alat Medis",
-      "beauty": "Kecantikan",
-      "hair": "Produk Rambut",
-      "more": "Kategori Lain",
-      "view_all": "Lihat Semua Produk"
     },
     "why_us": {
       "title": "Mengapa Memilih Nova Link China?",
@@ -91,7 +82,7 @@
   "about": {
     "title": "Tentang Nova Link China",
     "subtitle": "Jembatan Anda ke manufaktur China berkualitas",
-    "intro": "Nova Link China adalah perusahaan perdagangan yang berbasis di Zhengzhou, didedikasikan untuk menghubungkan pembeli global dengan produsen China terbaik. Kami berspesialisasi dalam alat medis, produk perawatan pribadi, dan barang konsumen.",
+    "intro": "Nova Link China adalah perusahaan perdagangan yang berbasis di Zhengzhou, didedikasikan untuk menghubungkan pembeli global dengan produsen alat medis China terbaik.",
     "mission": {
       "title": "Misi Kami",
       "text": "Menyederhanakan sourcing global dari China dengan menyediakan harga transparan, kualitas terjamin, dan komunikasi tanpa hambatan."
@@ -128,8 +119,8 @@
     "info": {
       "title": "Informasi Kontak",
       "address": "Zhengdong New District, Zhengzhou, Henan, China",
-      "phone": "+86 371-xxxxxxx",
-      "email": "info@novalinkchina.com",
+      "phone": "+86 371-6685 1110",
+      "email": "jdswj2006@gmail.com",
       "hours": "Sen - Jum, 9:00 - 18:00 (GMT+8)"
     }
   },

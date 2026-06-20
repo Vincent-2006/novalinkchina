@@ -1,22 +1,89 @@
-﻿[
+[
   {
     "id": "anesthesia-mask",
     "slug": "anesthesia-mask",
     "category": "respiratory",
-    "name": { "en": "Anesthesia Mask", "zh": "麻醉面罩", "id": "Masker Anestesi" },
+    "name": {
+      "en": "Anesthesia Mask",
+      "zh": "麻醉面罩",
+      "id": "Masker Anestesi"
+    },
     "model": "NL-AM01",
     "features": {
-      "en": ["Latex-free", "Medical-grade PVC", "Transparent design", "Soft cushion seal", "CE MDR certified", "Sterile"],
-      "zh": ["无乳胶", "医用级PVC", "透明设计", "柔软气垫密封", "CE MDR认证", "环氧乙烷灭菌"],
-      "id": ["Bebas lateks", "PVC medis", "Desain transparan", "Bantalan lembut", "Sertifikasi CE MDR", "Steril"]
+      "en": [
+        "Latex-free",
+        "Medical-grade PVC",
+        "Transparent design",
+        "Soft cushion seal",
+        "CE MDR certified",
+        "Sterile"
+      ],
+      "zh": [
+        "无乳胶",
+        "医用级PVC",
+        "透明设计",
+        "柔软气垫密封",
+        "CE MDR认证",
+        "环氧乙烷灭菌"
+      ],
+      "id": [
+        "Bebas lateks",
+        "PVC medis",
+        "Desain transparan",
+        "Bantalan lembut",
+        "Sertifikasi CE MDR",
+        "Steril"
+      ]
     },
     "specs": [
-      { "key": "Size", "value": { "en": "S / M / L", "zh": "S / M / L", "id": "S / M / L" } },
-      { "key": "Material", "value": { "en": "Medical-grade PVC", "zh": "医用级PVC", "id": "PVC medis" } },
-      { "key": "Packaging", "value": { "en": "50 pcs/box", "zh": "50个/箱", "id": "50 pcs/kotak" } },
-      { "key": "MOQ", "value": { "en": "1,000 pcs", "zh": "1000个", "id": "1.000 pcs" } },
-      { "key": "Lead Time", "value": { "en": "15-25 days", "zh": "15-25天", "id": "15-25 hari" } },
-      { "key": "Certification", "value": { "en": "CE MDR, FDA, ISO13485", "zh": "CE MDR、FDA、ISO13485", "id": "CE MDR, FDA, ISO13485" } }
+      {
+        "key": "Size",
+        "value": {
+          "en": "S / M / L",
+          "zh": "S / M / L",
+          "id": "S / M / L"
+        }
+      },
+      {
+        "key": "Material",
+        "value": {
+          "en": "Medical-grade PVC",
+          "zh": "医用级PVC",
+          "id": "PVC medis"
+        }
+      },
+      {
+        "key": "Packaging",
+        "value": {
+          "en": "50 pcs/box",
+          "zh": "50个/箱",
+          "id": "50 pcs/kotak"
+        }
+      },
+      {
+        "key": "MOQ",
+        "value": {
+          "en": "1,000 pcs",
+          "zh": "1000个",
+          "id": "1.000 pcs"
+        }
+      },
+      {
+        "key": "Lead Time",
+        "value": {
+          "en": "15-25 days",
+          "zh": "15-25天",
+          "id": "15-25 hari"
+        }
+      },
+      {
+        "key": "Certification",
+        "value": {
+          "en": "CE MDR, FDA, ISO13485",
+          "zh": "CE MDR、FDA、ISO13485",
+          "id": "CE MDR, FDA, ISO13485"
+        }
+      }
     ],
     "description": {
       "en": "Premium anesthesia mask for safe and comfortable ventilation during anesthesia. Transparent dome allows continuous monitoring while soft cushion ensures secure seal.",
@@ -24,29 +91,111 @@
       "id": "Masker anestesi premium untuk ventilasi yang aman dan nyaman. Kubah transparan memungkinkan pemantauan berkelanjutan."
     },
     "applications": {
-      "en": ["Surgery", "ICU", "Emergency", "Recovery Room"],
-      "zh": ["手术室", "重症监护", "急诊", "恢复室"],
-      "id": ["Bedah", "ICU", "Darurat", "Ruang Pemulihan"]
+      "en": [
+        "Surgery",
+        "ICU",
+        "Emergency",
+        "Recovery Room"
+      ],
+      "zh": [
+        "手术室",
+        "重症监护",
+        "急诊",
+        "恢复室"
+      ],
+      "id": [
+        "Bedah",
+        "ICU",
+        "Darurat",
+        "Ruang Pemulihan"
+      ]
     }
   },
   {
     "id": "oxygen-mask",
     "slug": "oxygen-mask",
     "category": "respiratory",
-    "name": { "en": "Oxygen Mask", "zh": "氧气面罩", "id": "Masker Oksigen" },
+    "name": {
+      "en": "Oxygen Mask",
+      "zh": "氧气面罩",
+      "id": "Masker Oksigen"
+    },
     "model": "NL-OM01",
     "features": {
-      "en": ["Latex-free", "Medical-grade PVC", "Adjustable nose clip", "Kink-resistant tube", "CE MDR certified", "Sterile"],
-      "zh": ["无乳胶", "医用级PVC", "可调节鼻夹", "抗折管", "CE MDR认证", "环氧乙烷灭菌"],
-      "id": ["Bebas lateks", "PVC medis", "Klip hidung dapat disetel", "Tabung tahan tekuk", "Sertifikasi CE MDR", "Steril"]
+      "en": [
+        "Latex-free",
+        "Medical-grade PVC",
+        "Adjustable nose clip",
+        "Kink-resistant tube",
+        "CE MDR certified",
+        "Sterile"
+      ],
+      "zh": [
+        "无乳胶",
+        "医用级PVC",
+        "可调节鼻夹",
+        "抗折管",
+        "CE MDR认证",
+        "环氧乙烷灭菌"
+      ],
+      "id": [
+        "Bebas lateks",
+        "PVC medis",
+        "Klip hidung dapat disetel",
+        "Tabung tahan tekuk",
+        "Sertifikasi CE MDR",
+        "Steril"
+      ]
     },
     "specs": [
-      { "key": "Size", "value": { "en": "Adult / Pediatric", "zh": "成人/儿童", "id": "Dewasa / Anak" } },
-      { "key": "Material", "value": { "en": "Medical-grade PVC", "zh": "医用级PVC", "id": "PVC medis" } },
-      { "key": "Tube Length", "value": { "en": "2.1 m", "zh": "2.1米", "id": "2,1 m" } },
-      { "key": "Packaging", "value": { "en": "50 pcs/box", "zh": "50个/箱", "id": "50 pcs/kotak" } },
-      { "key": "MOQ", "value": { "en": "1,000 pcs", "zh": "1000个", "id": "1.000 pcs" } },
-      { "key": "Certification", "value": { "en": "CE MDR, FDA, ISO13485", "zh": "CE MDR、FDA、ISO13485", "id": "CE MDR, FDA, ISO13485" } }
+      {
+        "key": "Size",
+        "value": {
+          "en": "Adult / Pediatric",
+          "zh": "成人/儿童",
+          "id": "Dewasa / Anak"
+        }
+      },
+      {
+        "key": "Material",
+        "value": {
+          "en": "Medical-grade PVC",
+          "zh": "医用级PVC",
+          "id": "PVC medis"
+        }
+      },
+      {
+        "key": "Tube Length",
+        "value": {
+          "en": "2.1 m",
+          "zh": "2.1米",
+          "id": "2,1 m"
+        }
+      },
+      {
+        "key": "Packaging",
+        "value": {
+          "en": "50 pcs/box",
+          "zh": "50个/箱",
+          "id": "50 pcs/kotak"
+        }
+      },
+      {
+        "key": "MOQ",
+        "value": {
+          "en": "1,000 pcs",
+          "zh": "1000个",
+          "id": "1.000 pcs"
+        }
+      },
+      {
+        "key": "Certification",
+        "value": {
+          "en": "ISO13485",
+          "zh": "ISO13485",
+          "id": "ISO13485"
+        }
+      }
     ],
     "description": {
       "en": "High-quality oxygen mask for effective oxygen delivery. Adjustable nose clip for custom fit. Suitable for adult and pediatric patients.",
@@ -54,28 +203,103 @@
       "id": "Masker oksigen berkualitas untuk pengiriman oksigen efektif. Klip hidung dapat disetel. Cocok untuk dewasa dan anak."
     },
     "applications": {
-      "en": ["Oxygen Therapy", "Respiratory Care", "Emergency", "Post-Surgery"],
-      "zh": ["氧疗", "呼吸治疗", "急诊", "术后"],
-      "id": ["Terapi Oksigen", "Perawatan Napas", "Darurat", "Pasca Bedah"]
+      "en": [
+        "Oxygen Therapy",
+        "Respiratory Care",
+        "Emergency",
+        "Post-Surgery"
+      ],
+      "zh": [
+        "氧疗",
+        "呼吸治疗",
+        "急诊",
+        "术后"
+      ],
+      "id": [
+        "Terapi Oksigen",
+        "Perawatan Napas",
+        "Darurat",
+        "Pasca Bedah"
+      ]
     }
   },
   {
     "id": "nasal-cannula",
     "slug": "nasal-cannula",
     "category": "respiratory",
-    "name": { "en": "Nasal Oxygen Cannula", "zh": "鼻氧管", "id": "Kanula Oksigen" },
+    "name": {
+      "en": "Nasal Oxygen Cannula",
+      "zh": "鼻氧管",
+      "id": "Kanula Oksigen"
+    },
     "model": "NL-NC01",
     "features": {
-      "en": ["Latex-free", "Medical-grade PVC", "Soft prongs", "Adjustable headband", "Lightweight design", "CE MDR certified"],
-      "zh": ["无乳胶", "医用级PVC", "柔软鼻塞", "可调节头带", "轻量化设计", "CE MDR认证"],
-      "id": ["Bebas lateks", "PVC medis", "Prong lembut", "Ikat kepala dapat disetel", "Desain ringan", "Sertifikasi CE MDR"]
+      "en": [
+        "Latex-free",
+        "Medical-grade PVC",
+        "Soft prongs",
+        "Adjustable headband",
+        "Lightweight design",
+        "CE MDR certified"
+      ],
+      "zh": [
+        "无乳胶",
+        "医用级PVC",
+        "柔软鼻塞",
+        "可调节头带",
+        "轻量化设计",
+        "CE MDR认证"
+      ],
+      "id": [
+        "Bebas lateks",
+        "PVC medis",
+        "Prong lembut",
+        "Ikat kepala dapat disetel",
+        "Desain ringan",
+        "Sertifikasi CE MDR"
+      ]
     },
     "specs": [
-      { "key": "Material", "value": { "en": "Medical-grade PVC", "zh": "医用级PVC", "id": "PVC medis" } },
-      { "key": "Tube Length", "value": { "en": "2.1 m", "zh": "2.1米", "id": "2,1 m" } },
-      { "key": "Packaging", "value": { "en": "50 pcs/box", "zh": "50个/箱", "id": "50 pcs/kotak" } },
-      { "key": "MOQ", "value": { "en": "2,000 pcs", "zh": "2000个", "id": "2.000 pcs" } },
-      { "key": "Certification", "value": { "en": "CE MDR, FDA, ISO13485", "zh": "CE MDR、FDA、ISO13485", "id": "CE MDR, FDA, ISO13485" } }
+      {
+        "key": "Material",
+        "value": {
+          "en": "Medical-grade PVC",
+          "zh": "医用级PVC",
+          "id": "PVC medis"
+        }
+      },
+      {
+        "key": "Tube Length",
+        "value": {
+          "en": "2.1 m",
+          "zh": "2.1米",
+          "id": "2,1 m"
+        }
+      },
+      {
+        "key": "Packaging",
+        "value": {
+          "en": "50 pcs/box",
+          "zh": "50个/箱",
+          "id": "50 pcs/kotak"
+        }
+      },
+      {
+        "key": "MOQ",
+        "value": {
+          "en": "2,000 pcs",
+          "zh": "2000个",
+          "id": "2.000 pcs"
+        }
+      },
+      {
+        "key": "Certification",
+        "value": {
+          "en": "CE MDR, FDA, ISO13485",
+          "zh": "CE MDR、FDA、ISO13485",
+          "id": "CE MDR, FDA, ISO13485"
+        }
+      }
     ],
     "description": {
       "en": "Comfortable nasal cannula for supplemental oxygen. Soft prongs ensure patient comfort during extended use.",
@@ -83,28 +307,100 @@
       "id": "Kanula hidung nyaman untuk oksigen tambahan. Prong lembut memastikan kenyamanan penggunaan jangka panjang."
     },
     "applications": {
-      "en": ["Oxygen Therapy", "Respiratory Care", "Home Care"],
-      "zh": ["氧疗", "呼吸治疗", "家庭护理"],
-      "id": ["Terapi Oksigen", "Perawatan Napas", "Perawatan Rumah"]
+      "en": [
+        "Oxygen Therapy",
+        "Respiratory Care",
+        "Home Care"
+      ],
+      "zh": [
+        "氧疗",
+        "呼吸治疗",
+        "家庭护理"
+      ],
+      "id": [
+        "Terapi Oksigen",
+        "Perawatan Napas",
+        "Perawatan Rumah"
+      ]
     }
   },
   {
     "id": "anesthesia-circuit",
     "slug": "anesthesia-circuit",
     "category": "respiratory",
-    "name": { "en": "Anesthesia Breathing Circuit", "zh": "麻醉呼吸回路", "id": "Sirkuit Napas Anestesi" },
+    "name": {
+      "en": "Anesthesia Breathing Circuit",
+      "zh": "麻醉呼吸回路",
+      "id": "Sirkuit Napas Anestesi"
+    },
     "model": "NL-ABC01",
     "features": {
-      "en": ["Latex-free", "Medical-grade materials", "Kink-resistant tubing", "Standard 22mm connector", "CE MDR certified", "Sterile"],
-      "zh": ["无乳胶", "医用级材料", "抗折管道", "标准22mm接口", "CE MDR认证", "环氧乙烷灭菌"],
-      "id": ["Bebas lateks", "Bahan medis", "Tabung tahan tekuk", "Konektor 22mm standar", "Sertifikasi CE MDR", "Steril"]
+      "en": [
+        "Latex-free",
+        "Medical-grade materials",
+        "Kink-resistant tubing",
+        "Standard 22mm connector",
+        "CE MDR certified",
+        "Sterile"
+      ],
+      "zh": [
+        "无乳胶",
+        "医用级材料",
+        "抗折管道",
+        "标准22mm接口",
+        "CE MDR认证",
+        "环氧乙烷灭菌"
+      ],
+      "id": [
+        "Bebas lateks",
+        "Bahan medis",
+        "Tabung tahan tekuk",
+        "Konektor 22mm standar",
+        "Sertifikasi CE MDR",
+        "Steril"
+      ]
     },
     "specs": [
-      { "key": "Length", "value": { "en": "1.8 m / 2.4 m", "zh": "1.8米/2.4米", "id": "1,8 m / 2,4 m" } },
-      { "key": "Connector", "value": { "en": "22mm OD / 15mm ID", "zh": "22mm外径/15mm内径", "id": "22mm OD / 15mm ID" } },
-      { "key": "Packaging", "value": { "en": "30 pcs/box", "zh": "30个/箱", "id": "30 pcs/kotak" } },
-      { "key": "MOQ", "value": { "en": "500 pcs", "zh": "500个", "id": "500 pcs" } },
-      { "key": "Certification", "value": { "en": "CE MDR, FDA, ISO13485", "zh": "CE MDR、FDA、ISO13485", "id": "CE MDR, FDA, ISO13485" } }
+      {
+        "key": "Length",
+        "value": {
+          "en": "1.8 m / 2.4 m",
+          "zh": "1.8米/2.4米",
+          "id": "1,8 m / 2,4 m"
+        }
+      },
+      {
+        "key": "Connector",
+        "value": {
+          "en": "22mm OD / 15mm ID",
+          "zh": "22mm外径/15mm内径",
+          "id": "22mm OD / 15mm ID"
+        }
+      },
+      {
+        "key": "Packaging",
+        "value": {
+          "en": "30 pcs/box",
+          "zh": "30个/箱",
+          "id": "30 pcs/kotak"
+        }
+      },
+      {
+        "key": "MOQ",
+        "value": {
+          "en": "500 pcs",
+          "zh": "500个",
+          "id": "500 pcs"
+        }
+      },
+      {
+        "key": "Certification",
+        "value": {
+          "en": "CE MDR, FDA, ISO13485",
+          "zh": "CE MDR、FDA、ISO13485",
+          "id": "CE MDR, FDA, ISO13485"
+        }
+      }
     ],
     "description": {
       "en": "Professional anesthesia breathing circuit for reliable gas delivery. Standard 22mm connectors compatible with most anesthesia machines.",
@@ -112,29 +408,108 @@
       "id": "Sirkuit napas anestesi profesional untuk pengiriman gas andal. Konektor 22mm kompatibel dengan sebagian besar mesin anestesi."
     },
     "applications": {
-      "en": ["Anesthesia", "ICU Ventilation", "Emergency"],
-      "zh": ["麻醉", "ICU通气", "急诊"],
-      "id": ["Anestesi", "Ventilasi ICU", "Darurat"]
+      "en": [
+        "Anesthesia",
+        "ICU Ventilation",
+        "Emergency"
+      ],
+      "zh": [
+        "麻醉",
+        "ICU通气",
+        "急诊"
+      ],
+      "id": [
+        "Anestesi",
+        "Ventilasi ICU",
+        "Darurat"
+      ]
     }
   },
   {
     "id": "endotracheal-tube",
     "slug": "endotracheal-tube",
     "category": "respiratory",
-    "name": { "en": "Endotracheal Tube", "zh": "气管插管", "id": "Tabung Endotrakeal" },
+    "name": {
+      "en": "Endotracheal Tube",
+      "zh": "气管插管",
+      "id": "Tabung Endotrakeal"
+    },
     "model": "NL-ET01",
     "features": {
-      "en": ["HVLP cuff", "Medical-grade PVC", "Depth markings", "Atraumatic tip", "CE MDR certified", "Sterile"],
-      "zh": ["高容量低压气囊", "医用级PVC", "深度标记", "无创尖端", "CE MDR认证", "灭菌"],
-      "id": ["Cuff HVLP", "PVC medis", "Tanda kedalaman", "Ujung atraumatik", "Sertifikasi CE MDR", "Steril"]
+      "en": [
+        "HVLP cuff",
+        "Medical-grade PVC",
+        "Depth markings",
+        "Atraumatic tip",
+        "CE MDR certified",
+        "Sterile"
+      ],
+      "zh": [
+        "高容量低压气囊",
+        "医用级PVC",
+        "深度标记",
+        "无创尖端",
+        "CE MDR认证",
+        "灭菌"
+      ],
+      "id": [
+        "Cuff HVLP",
+        "PVC medis",
+        "Tanda kedalaman",
+        "Ujung atraumatik",
+        "Sertifikasi CE MDR",
+        "Steril"
+      ]
     },
     "specs": [
-      { "key": "Size", "value": { "en": "ID 6.0 - 8.5 mm", "zh": "内径6.0-8.5mm", "id": "ID 6,0 - 8,5 mm" } },
-      { "key": "Material", "value": { "en": "Medical-grade PVC", "zh": "医用级PVC", "id": "PVC medis" } },
-      { "key": "Cuff", "value": { "en": "High Volume Low Pressure", "zh": "高容量低压", "id": "HVLP" } },
-      { "key": "Packaging", "value": { "en": "10 pcs/box", "zh": "10个/箱", "id": "10 pcs/kotak" } },
-      { "key": "MOQ", "value": { "en": "500 pcs", "zh": "500个", "id": "500 pcs" } },
-      { "key": "Certification", "value": { "en": "CE MDR, FDA, ISO13485", "zh": "CE MDR、FDA、ISO13485", "id": "CE MDR, FDA, ISO13485" } }
+      {
+        "key": "Size",
+        "value": {
+          "en": "ID 6.0 - 8.5 mm",
+          "zh": "内径6.0-8.5mm",
+          "id": "ID 6,0 - 8,5 mm"
+        }
+      },
+      {
+        "key": "Material",
+        "value": {
+          "en": "Medical-grade PVC",
+          "zh": "医用级PVC",
+          "id": "PVC medis"
+        }
+      },
+      {
+        "key": "Cuff",
+        "value": {
+          "en": "High Volume Low Pressure",
+          "zh": "高容量低压",
+          "id": "HVLP"
+        }
+      },
+      {
+        "key": "Packaging",
+        "value": {
+          "en": "10 pcs/box",
+          "zh": "10个/箱",
+          "id": "10 pcs/kotak"
+        }
+      },
+      {
+        "key": "MOQ",
+        "value": {
+          "en": "500 pcs",
+          "zh": "500个",
+          "id": "500 pcs"
+        }
+      },
+      {
+        "key": "Certification",
+        "value": {
+          "en": "CE MDR, FDA, ISO13485",
+          "zh": "CE MDR、FDA、ISO13485",
+          "id": "CE MDR, FDA, ISO13485"
+        }
+      }
     ],
     "description": {
       "en": "High-quality endotracheal tube with HVLP cuff for effective airway management. Clear depth markings facilitate accurate placement.",
@@ -142,29 +517,108 @@
       "id": "Tabung endotrakeal berkualitas dengan cuff HVLP untuk manajemen jalan napas efektif."
     },
     "applications": {
-      "en": ["General Anesthesia", "ICU", "Emergency"],
-      "zh": ["全身麻醉", "重症监护", "紧急插管"],
-      "id": ["Anestesi Umum", "ICU", "Darurat"]
+      "en": [
+        "General Anesthesia",
+        "ICU",
+        "Emergency"
+      ],
+      "zh": [
+        "全身麻醉",
+        "重症监护",
+        "紧急插管"
+      ],
+      "id": [
+        "Anestesi Umum",
+        "ICU",
+        "Darurat"
+      ]
     }
   },
   {
     "id": "urinary-catheter",
     "slug": "urinary-catheter",
     "category": "catheter",
-    "name": { "en": "Foley Urinary Catheter", "zh": "导尿管", "id": "Kateter Urin Foley" },
+    "name": {
+      "en": "Foley Urinary Catheter",
+      "zh": "导尿管",
+      "id": "Kateter Urin Foley"
+    },
     "model": "NL-UC01",
     "features": {
-      "en": ["100% silicone", "Smooth balloon tip", "Radiopaque line", "Latex-free", "CE MDR certified", "Sterile"],
-      "zh": ["100%硅胶", "光滑气囊尖端", "显影线", "无乳胶", "CE MDR认证", "灭菌"],
-      "id": ["100% silikon", "Ujung balon halus", "Garis radiopak", "Bebas lateks", "Sertifikasi CE MDR", "Steril"]
+      "en": [
+        "100% silicone",
+        "Smooth balloon tip",
+        "Radiopaque line",
+        "Latex-free",
+        "CE MDR certified",
+        "Sterile"
+      ],
+      "zh": [
+        "100%硅胶",
+        "光滑气囊尖端",
+        "显影线",
+        "无乳胶",
+        "CE MDR认证",
+        "灭菌"
+      ],
+      "id": [
+        "100% silikon",
+        "Ujung balon halus",
+        "Garis radiopak",
+        "Bebas lateks",
+        "Sertifikasi CE MDR",
+        "Steril"
+      ]
     },
     "specs": [
-      { "key": "Size", "value": { "en": "FR 12 - FR 24", "zh": "FR 12 - FR 24", "id": "FR 12 - FR 24" } },
-      { "key": "Material", "value": { "en": "100% Medical-grade Silicone", "zh": "100%医用级硅胶", "id": "100% Silikon medis" } },
-      { "key": "Balloon", "value": { "en": "5-10 ml / 30 ml", "zh": "5-10ml/30ml", "id": "5-10 ml / 30 ml" } },
-      { "key": "Packaging", "value": { "en": "20 pcs/box", "zh": "20个/箱", "id": "20 pcs/kotak" } },
-      { "key": "MOQ", "value": { "en": "500 pcs", "zh": "500个", "id": "500 pcs" } },
-      { "key": "Certification", "value": { "en": "CE MDR, FDA, ISO13485", "zh": "CE MDR、FDA、ISO13485", "id": "CE MDR, FDA, ISO13485" } }
+      {
+        "key": "Size",
+        "value": {
+          "en": "FR 12 - FR 24",
+          "zh": "FR 12 - FR 24",
+          "id": "FR 12 - FR 24"
+        }
+      },
+      {
+        "key": "Material",
+        "value": {
+          "en": "100% Medical-grade Silicone",
+          "zh": "100%医用级硅胶",
+          "id": "100% Silikon medis"
+        }
+      },
+      {
+        "key": "Balloon",
+        "value": {
+          "en": "5-10 ml / 30 ml",
+          "zh": "5-10ml/30ml",
+          "id": "5-10 ml / 30 ml"
+        }
+      },
+      {
+        "key": "Packaging",
+        "value": {
+          "en": "20 pcs/box",
+          "zh": "20个/箱",
+          "id": "20 pcs/kotak"
+        }
+      },
+      {
+        "key": "MOQ",
+        "value": {
+          "en": "500 pcs",
+          "zh": "500个",
+          "id": "500 pcs"
+        }
+      },
+      {
+        "key": "Certification",
+        "value": {
+          "en": "CE MDR, FDA, ISO13485",
+          "zh": "CE MDR、FDA、ISO13485",
+          "id": "CE MDR, FDA, ISO13485"
+        }
+      }
     ],
     "description": {
       "en": "Premium 100% silicone Foley catheter for comfortable urinary drainage. Radiopaque line enables X-ray verification of placement.",
@@ -172,29 +626,111 @@
       "id": "Kateter Foley premium 100% silikon untuk drainase urin yang nyaman."
     },
     "applications": {
-      "en": ["Urinary Drainage", "Post-Surgery", "ICU", "Long-term Care"],
-      "zh": ["尿液引流", "术后", "重症监护", "长期护理"],
-      "id": ["Drainase Urin", "Pasca Bedah", "ICU", "Perawatan Jangka Panjang"]
+      "en": [
+        "Urinary Drainage",
+        "Post-Surgery",
+        "ICU",
+        "Long-term Care"
+      ],
+      "zh": [
+        "尿液引流",
+        "术后",
+        "重症监护",
+        "长期护理"
+      ],
+      "id": [
+        "Drainase Urin",
+        "Pasca Bedah",
+        "ICU",
+        "Perawatan Jangka Panjang"
+      ]
     }
   },
   {
     "id": "surgical-gown",
     "slug": "surgical-gown",
     "category": "protection",
-    "name": { "en": "Surgical Gown", "zh": "手术衣", "id": "Gaun Bedah" },
+    "name": {
+      "en": "Surgical Gown",
+      "zh": "手术衣",
+      "id": "Gaun Bedah"
+    },
     "model": "NL-SG01",
     "features": {
-      "en": ["SMS non-woven fabric", "Anti-static", "Elastic cuffs", "Tie closure", "Latex-free", "100% polypropylene"],
-      "zh": ["SMS无纺布", "防静电", "弹性袖口", "后系带", "无乳胶", "100%聚丙烯"],
-      "id": ["Kain non-woven SMS", "Anti-statis", "Manset elastis", "Ikat belakang", "Bebas lateks", "100% polipropilen"]
+      "en": [
+        "SMS non-woven fabric",
+        "Anti-static",
+        "Elastic cuffs",
+        "Tie closure",
+        "Latex-free",
+        "100% polypropylene"
+      ],
+      "zh": [
+        "SMS无纺布",
+        "防静电",
+        "弹性袖口",
+        "后系带",
+        "无乳胶",
+        "100%聚丙烯"
+      ],
+      "id": [
+        "Kain non-woven SMS",
+        "Anti-statis",
+        "Manset elastis",
+        "Ikat belakang",
+        "Bebas lateks",
+        "100% polipropilen"
+      ]
     },
     "specs": [
-      { "key": "Material", "value": { "en": "100% Polypropylene SMS", "zh": "100%聚丙烯SMS", "id": "100% Polipropilen SMS" } },
-      { "key": "Weight", "value": { "en": "30-45 gsm", "zh": "30-45克/平米", "id": "30-45 gsm" } },
-      { "key": "Size", "value": { "en": "M / L / XL / XXL", "zh": "M/L/XL/XXL", "id": "M/L/XL/XXL" } },
-      { "key": "Packaging", "value": { "en": "50 pcs/box", "zh": "50件/箱", "id": "50 pcs/kotak" } },
-      { "key": "MOQ", "value": { "en": "2,000 pcs", "zh": "2000件", "id": "2.000 pcs" } },
-      { "key": "Certification", "value": { "en": "ISO13485", "zh": "ISO13485", "id": "ISO13485" } }
+      {
+        "key": "Material",
+        "value": {
+          "en": "100% Polypropylene SMS",
+          "zh": "100%聚丙烯SMS",
+          "id": "100% Polipropilen SMS"
+        }
+      },
+      {
+        "key": "Weight",
+        "value": {
+          "en": "30-45 gsm",
+          "zh": "30-45克/平米",
+          "id": "30-45 gsm"
+        }
+      },
+      {
+        "key": "Size",
+        "value": {
+          "en": "M / L / XL / XXL",
+          "zh": "M/L/XL/XXL",
+          "id": "M/L/XL/XXL"
+        }
+      },
+      {
+        "key": "Packaging",
+        "value": {
+          "en": "50 pcs/box",
+          "zh": "50件/箱",
+          "id": "50 pcs/kotak"
+        }
+      },
+      {
+        "key": "MOQ",
+        "value": {
+          "en": "2,000 pcs",
+          "zh": "2000件",
+          "id": "2.000 pcs"
+        }
+      },
+      {
+        "key": "Certification",
+        "value": {
+          "en": "ISO13485",
+          "zh": "ISO13485",
+          "id": "ISO13485"
+        }
+      }
     ],
     "description": {
       "en": "High-quality disposable surgical gown from SMS non-woven fabric. Effective barrier protection during procedures. Lightweight and durable.",
@@ -202,9 +738,2924 @@
       "id": "Gaun bedah sekali pakai berkualitas dari kain non-woven SMS. Perlindungan penghalang efektif."
     },
     "applications": {
-      "en": ["Surgery", "Medical Exam", "Isolation", "Laboratory"],
-      "zh": ["手术", "检查", "隔离", "实验室"],
-      "id": ["Bedah", "Pemeriksaan", "Isolasi", "Laboratorium"]
+      "en": [
+        "Surgery",
+        "Medical Exam",
+        "Isolation",
+        "Laboratory"
+      ],
+      "zh": [
+        "手术",
+        "检查",
+        "隔离",
+        "实验室"
+      ],
+      "id": [
+        "Bedah",
+        "Pemeriksaan",
+        "Isolasi",
+        "Laboratorium"
+      ]
+    }
+  },
+  {
+    "id": "nebulizer-mask",
+    "slug": "nebulizer-mask",
+    "category": "respiratory",
+    "name": {
+      "en": "Nebulizer Mask",
+      "zh": "雾化面罩",
+      "id": "Masker Nebulizer"
+    },
+    "model": "NL-NM01",
+    "features": {
+      "en": [
+        "Latex-free",
+        "Medical-grade PVC",
+        "Fine particle nebulization",
+        "Soft mask design",
+        "CE MDR certified",
+        "Sterile"
+      ],
+      "zh": [
+        "无乳胶",
+        "医用级PVC",
+        "细雾化颗粒",
+        "柔软面罩设计",
+        "CE MDR认证",
+        "环氧乙烷灭菌"
+      ],
+      "id": [
+        "Bebas lateks",
+        "PVC medis",
+        "Nebulisasi partikel halus",
+        "Desain masker lembut",
+        "Sertifikasi CE MDR",
+        "Steril"
+      ]
+    },
+    "specs": [
+      {
+        "key": "Size",
+        "value": {
+          "en": "S (Pediatric) / M / L (Adult)",
+          "zh": "S(儿童)/M/L(成人)",
+          "id": "S (Anak) / M / L (Dewasa)"
+        }
+      },
+      {
+        "key": "Material",
+        "value": {
+          "en": "Medical-grade PVC",
+          "zh": "医用级PVC",
+          "id": "PVC medis"
+        }
+      },
+      {
+        "key": "Nebulizer Cup",
+        "value": {
+          "en": "6-10 cc",
+          "zh": "6-10cc",
+          "id": "6-10 cc"
+        }
+      },
+      {
+        "key": "Packaging",
+        "value": {
+          "en": "100 pcs/carton",
+          "zh": "100个/箱",
+          "id": "100 pcs/karton"
+        }
+      },
+      {
+        "key": "MOQ",
+        "value": {
+          "en": "1,000 pcs",
+          "zh": "1000个",
+          "id": "1.000 pcs"
+        }
+      },
+      {
+        "key": "Certification",
+        "value": {
+          "en": "CE MDR, FDA, ISO13485",
+          "zh": "CE MDR、FDA、ISO13485",
+          "id": "CE MDR, FDA, ISO13485"
+        }
+      }
+    ],
+    "description": {
+      "en": "High-quality nebulizer mask for effective aerosol therapy. Fine particle delivery ensures deep lung deposition. Soft mask for extended treatment.",
+      "zh": "高品质雾化面罩，有效进行雾化治疗。细雾化颗粒确保深部肺部沉积。",
+      "id": "Masker nebulizer berkualitas untuk terapi aerosol yang efektif."
+    },
+    "applications": {
+      "en": [
+        "Respiratory Therapy",
+        "Asthma Treatment",
+        "Pediatric",
+        "Home Care"
+      ],
+      "zh": [
+        "呼吸治疗",
+        "喘息治疗",
+        "儿科",
+        "家庭护理"
+      ],
+      "id": [
+        "Terapi Napas",
+        "Pengobatan Asma",
+        "Pediatri",
+        "Perawatan Rumah"
+      ]
+    }
+  },
+  {
+    "id": "silicone-anesthesia-mask",
+    "slug": "silicone-anesthesia-mask",
+    "category": "respiratory",
+    "name": {
+      "en": "Silicone Anesthesia Mask",
+      "zh": "硅胶麻醉面罩",
+      "id": "Masker Anestesi Silikon"
+    },
+    "model": "NL-AM02",
+    "features": {
+      "en": [
+        "Medical-grade silicone",
+        "Reusable & autoclavable",
+        "134°C sterilization",
+        "Transparent design",
+        "Soft cushion seal"
+      ],
+      "zh": [
+        "医用级硅胶",
+        "可重复使用",
+        "可134°C高温灭菌",
+        "透明设计",
+        "柔软气垫密封"
+      ],
+      "id": [
+        "Silikon medis",
+        "Dapat digunakan ulang",
+        "Sterilisasi 134°C",
+        "Desain transparan",
+        "Bantalan lembut"
+      ]
+    },
+    "specs": [
+      {
+        "key": "Size",
+        "value": {
+          "en": "0# (Neonate) - 6# (Adult XL)",
+          "zh": "0#(新生儿)-6#(成人XL)",
+          "id": "0# (Neonatal) - 6# (Dewasa XL)"
+        }
+      },
+      {
+        "key": "Material",
+        "value": {
+          "en": "Medical-grade Silicone",
+          "zh": "医用级硅胶",
+          "id": "Silikon medis"
+        }
+      },
+      {
+        "key": "Sterilization",
+        "value": {
+          "en": "Autoclavable at 134°C",
+          "zh": "可134°C高压灭菌",
+          "id": "Autoklaf 134°C"
+        }
+      },
+      {
+        "key": "Packaging",
+        "value": {
+          "en": "50 pcs/box",
+          "zh": "50个/箱",
+          "id": "50 pcs/kotak"
+        }
+      },
+      {
+        "key": "MOQ",
+        "value": {
+          "en": "500 pcs",
+          "zh": "500个",
+          "id": "500 pcs"
+        }
+      }
+    ],
+    "description": {
+      "en": "Premium silicone anesthesia mask for reusable applications. Autoclavable at 134°C for repeated sterilization.",
+      "zh": "优质硅胶麻醉面罩，可重复使用。可134°C高温高压灭菌。",
+      "id": "Masker anestesi silikon premium untuk penggunaan berulang."
+    },
+    "applications": {
+      "en": [
+        "Anesthesia",
+        "ICU",
+        "Emergency",
+        "Recovery Room"
+      ],
+      "zh": [
+        "麻醉",
+        "重症监护",
+        "急诊",
+        "恢复室"
+      ],
+      "id": [
+        "Anestesi",
+        "ICU",
+        "Darurat",
+        "Ruang Pemulihan"
+      ]
+    }
+  },
+  {
+    "id": "guedel-airway",
+    "slug": "guedel-airway",
+    "category": "respiratory",
+    "name": {
+      "en": "Guedel Airway",
+      "zh": "口咽通气道",
+      "id": "Jalan Napas Guedel"
+    },
+    "model": "NL-GA01",
+    "features": {
+      "en": [
+        "Color-coded sizes",
+        "Medical-grade PE/PP",
+        "Smooth surface",
+        "Bite block design",
+        "Sterile"
+      ],
+      "zh": [
+        "颜色编码尺寸",
+        "医用级PE/PP",
+        "光滑表面",
+        "咬合块设计",
+        "灭菌"
+      ],
+      "id": [
+        "Ukuran kode warna",
+        "PE/PP medis",
+        "Permukaan halus",
+        "Desain bite block",
+        "Steril"
+      ]
+    },
+    "specs": [
+      {
+        "key": "Size Range",
+        "value": {
+          "en": "40 mm - 120 mm (color coded)",
+          "zh": "40mm-120mm（颜色编码）",
+          "id": "40 mm - 120 mm (kode warna)"
+        }
+      },
+      {
+        "key": "Material",
+        "value": {
+          "en": "PVC+ABS / PE+PP",
+          "zh": "PVC+ABS/PE+PP",
+          "id": "PVC+ABS / PE+PP"
+        }
+      },
+      {
+        "key": "Packaging",
+        "value": {
+          "en": "100 pcs/box",
+          "zh": "100个/箱",
+          "id": "100 pcs/kotak"
+        }
+      },
+      {
+        "key": "MOQ",
+        "value": {
+          "en": "1,000 pcs",
+          "zh": "1000个",
+          "id": "1.000 pcs"
+        }
+      }
+    ],
+    "description": {
+      "en": "Guedel airway for maintaining open airway in unconscious patients. Color-coded for easy size identification.",
+      "zh": "口咽通气道，用于维持无意识患者气道通畅。颜色编码便于快速选择尺寸。",
+      "id": "Jalan napas Guedel untuk mempertahankan jalan napas terbuka."
+    },
+    "applications": {
+      "en": [
+        "Emergency",
+        "Anesthesia",
+        "First Aid",
+        "ICU"
+      ],
+      "zh": [
+        "急诊",
+        "麻醉",
+        "急救",
+        "重症监护"
+      ],
+      "id": [
+        "Darurat",
+        "Anestesi",
+        "Pertolongan Pertama",
+        "ICU"
+      ]
+    }
+  },
+  {
+    "id": "laryngeal-mask",
+    "slug": "laryngeal-mask",
+    "category": "respiratory",
+    "name": {
+      "en": "Laryngeal Mask",
+      "zh": "喉罩",
+      "id": "Masker Laring"
+    },
+    "model": "NL-LM01",
+    "features": {
+      "en": [
+        "Silicone/PVC options",
+        "Inflatable cuff",
+        "Anatomical design",
+        "Color-coded sizes",
+        "Sterile"
+      ],
+      "zh": [
+        "硅胶/PVC可选",
+        "可充气气囊",
+        "人体工学设计",
+        "颜色编码尺寸",
+        "灭菌"
+      ],
+      "id": [
+        "Opsi silikon/PVC",
+        "Cuff yang dapat diisi",
+        "Desain anatomis",
+        "Ukuran kode warna",
+        "Steril"
+      ]
+    },
+    "specs": [
+      {
+        "key": "Size",
+        "value": {
+          "en": "1.0# - 6.0#",
+          "zh": "1.0#-6.0#",
+          "id": "1.0# - 6.0#"
+        }
+      },
+      {
+        "key": "Material",
+        "value": {
+          "en": "Medical-grade Silicone / PVC",
+          "zh": "医用级硅胶/PVC",
+          "id": "Silikon medis / PVC"
+        }
+      },
+      {
+        "key": "Cuff Volume",
+        "value": {
+          "en": "4 - 50 ml",
+          "zh": "4-50ml",
+          "id": "4 - 50 ml"
+        }
+      },
+      {
+        "key": "Packaging",
+        "value": {
+          "en": "30 pcs/box",
+          "zh": "30个/箱",
+          "id": "30 pcs/kotak"
+        }
+      },
+      {
+        "key": "MOQ",
+        "value": {
+          "en": "500 pcs",
+          "zh": "500个",
+          "id": "500 pcs"
+        }
+      }
+    ],
+    "description": {
+      "en": "Laryngeal mask airway for effective airway management during anesthesia and emergency.",
+      "zh": "喉罩通气道，用于麻醉和急救时的有效气道管理。",
+      "id": "Masker laring untuk manajemen jalan napas efektif."
+    },
+    "applications": {
+      "en": [
+        "Anesthesia",
+        "Emergency",
+        "ICU",
+        "Outpatient Surgery"
+      ],
+      "zh": [
+        "麻醉",
+        "急诊",
+        "重症监护",
+        "门诊手术"
+      ],
+      "id": [
+        "Anestesi",
+        "Darurat",
+        "ICU",
+        "Bedah Rawat Jalan"
+      ]
+    }
+  },
+  {
+    "id": "manual-resuscitator",
+    "slug": "manual-resuscitator",
+    "category": "respiratory",
+    "name": {
+      "en": "Manual Resuscitator",
+      "zh": "简易呼吸器",
+      "id": "Resusitator Manual"
+    },
+    "model": "NL-MR01",
+    "features": {
+      "en": [
+        "PVC/Silicone options",
+        "Self-reinflating bag",
+        "Standard 22/15mm connector",
+        "Oxygen reservoir",
+        "Face mask included"
+      ],
+      "zh": [
+        "PVC/硅胶可选",
+        "自动充气球囊",
+        "标准22/15mm接口",
+        "氧气储气囊",
+        "含面罩"
+      ],
+      "id": [
+        "Opsi PVC/silikon",
+        "Balon self-reinflating",
+        "Konektor 22/15mm standar",
+        "Reservoir oksigen",
+        "Termasuk masker"
+      ]
+    },
+    "specs": [
+      {
+        "key": "Type",
+        "value": {
+          "en": "Infant / Child / Adult",
+          "zh": "婴幼儿/儿童/成人",
+          "id": "Bayi / Anak / Dewasa"
+        }
+      },
+      {
+        "key": "Material",
+        "value": {
+          "en": "PVC / Silicone",
+          "zh": "PVC/硅胶",
+          "id": "PVC / Silikon"
+        }
+      },
+      {
+        "key": "Packaging",
+        "value": {
+          "en": "10 pcs/box",
+          "zh": "10个/箱",
+          "id": "10 pcs/kotak"
+        }
+      },
+      {
+        "key": "MOQ",
+        "value": {
+          "en": "200 pcs",
+          "zh": "200个",
+          "id": "200 pcs"
+        }
+      }
+    ],
+    "description": {
+      "en": "Manual resuscitator (Ambu bag) for emergency ventilation. Self-reinflating bag with non-rebreathing valve.",
+      "zh": "简易呼吸器（复苏球囊），用于紧急通气。自动充气球囊配合单向阀。",
+      "id": "Resusitator manual untuk ventilasi darurat."
+    },
+    "applications": {
+      "en": [
+        "Emergency",
+        "First Aid",
+        "ICU",
+        "Ambulance"
+      ],
+      "zh": [
+        "急诊",
+        "急救",
+        "重症监护",
+        "救护车"
+      ],
+      "id": [
+        "Darurat",
+        "Pertolongan Pertama",
+        "ICU",
+        "Ambulans"
+      ]
+    }
+  },
+  {
+    "id": "tracheostomy-tube",
+    "slug": "tracheostomy-tube",
+    "category": "respiratory",
+    "name": {
+      "en": "Tracheostomy Tube",
+      "zh": "气管切开插管",
+      "id": "Tabung Trakeostomi"
+    },
+    "model": "NL-TT01",
+    "features": {
+      "en": [
+        "Medical-grade PVC",
+        "Cuffed/uncuffed options",
+        "Soft flange",
+        "Obturator included",
+        "Sterile"
+      ],
+      "zh": [
+        "医用级PVC",
+        "带气囊/无气囊可选",
+        "柔软翼板",
+        "含引导管芯",
+        "灭菌"
+      ],
+      "id": [
+        "PVC medis",
+        "Opsi berkaf/tanpa kaf",
+        "Flange lembut",
+        "Termasuk obturator",
+        "Steril"
+      ]
+    },
+    "specs": [
+      {
+        "key": "Size",
+        "value": {
+          "en": "ID 3.0 - 9.5 mm",
+          "zh": "内径3.0-9.5mm",
+          "id": "ID 3,0 - 9,5 mm"
+        }
+      },
+      {
+        "key": "Material",
+        "value": {
+          "en": "Medical-grade PVC",
+          "zh": "医用级PVC",
+          "id": "PVC medis"
+        }
+      },
+      {
+        "key": "Type",
+        "value": {
+          "en": "Cuffed / Uncuffed",
+          "zh": "带气囊/无气囊",
+          "id": "Berkaf / Tanpa kaf"
+        }
+      },
+      {
+        "key": "Packaging",
+        "value": {
+          "en": "10 pcs/box",
+          "zh": "10个/箱",
+          "id": "10 pcs/kotak"
+        }
+      },
+      {
+        "key": "MOQ",
+        "value": {
+          "en": "500 pcs",
+          "zh": "500个",
+          "id": "500 pcs"
+        }
+      }
+    ],
+    "description": {
+      "en": "Tracheostomy tube for long-term airway management. Cuffed and uncuffed versions available.",
+      "zh": "气管切开插管，用于长期气道管理。可选带气囊/无气囊版本。",
+      "id": "Tabung trakeostomi untuk manajemen jalan napas jangka panjang."
+    },
+    "applications": {
+      "en": [
+        "ICU",
+        "Long-term Ventilation",
+        "Emergency",
+        "Post-Surgery"
+      ],
+      "zh": [
+        "重症监护",
+        "长期通气",
+        "急诊",
+        "术后"
+      ],
+      "id": [
+        "ICU",
+        "Ventilasi Jangka Panjang",
+        "Darurat",
+        "Pasca Bedah"
+      ]
+    }
+  },
+  {
+    "id": "isolation-gown",
+    "slug": "isolation-gown",
+    "category": "protection",
+    "name": {
+      "en": "Disposable Isolation Gown",
+      "zh": "隔离衣",
+      "id": "Gaun Isolasi"
+    },
+    "model": "NL-IG01",
+    "features": {
+      "en": [
+        "PP/PP+PE/SMS options",
+        "Water resistant",
+        "Breathable",
+        "Elastic cuffs",
+        "Lightweight"
+      ],
+      "zh": [
+        "PP/PP+PE/SMS可选",
+        "防水",
+        "透气",
+        "弹性袖口",
+        "轻量"
+      ],
+      "id": [
+        "Opsi PP/PP+PE/SMS",
+        "Tahan air",
+        "Bernapas",
+        "Manset elastis",
+        "Ringan"
+      ]
+    },
+    "specs": [
+      {
+        "key": "Material",
+        "value": {
+          "en": "PP / PP+PE / SMS",
+          "zh": "PP/PP+PE/SMS",
+          "id": "PP / PP+PE / SMS"
+        }
+      },
+      {
+        "key": "Size",
+        "value": {
+          "en": "165 - 185 cm",
+          "zh": "165-185cm",
+          "id": "165 - 185 cm"
+        }
+      },
+      {
+        "key": "Features",
+        "value": {
+          "en": "Waterproof, Oil-proof, Breathable",
+          "zh": "防水防油透气",
+          "id": "Tahan air, Tahan minyak, Bernapas"
+        }
+      },
+      {
+        "key": "Packaging",
+        "value": {
+          "en": "50 pcs/box",
+          "zh": "50件/箱",
+          "id": "50 pcs/kotak"
+        }
+      },
+      {
+        "key": "MOQ",
+        "value": {
+          "en": "2,000 pcs",
+          "zh": "2000件",
+          "id": "2.000 pcs"
+        }
+      }
+    ],
+    "description": {
+      "en": "Disposable isolation gown for medical and laboratory use. PP, PP+PE, and SMS materials available.",
+      "zh": "一次性隔离衣，适用于医疗和实验室环境。可选PP、PP+PE、SMS材质。",
+      "id": "Gaun isolasi sekali pakai untuk penggunaan medis dan laboratorium."
+    },
+    "applications": {
+      "en": [
+        "Medical Exam",
+        "Isolation",
+        "Laboratory",
+        "Industrial Cleaning"
+      ],
+      "zh": [
+        "医疗检查",
+        "隔离",
+        "实验室",
+        "工业清洁"
+      ],
+      "id": [
+        "Pemeriksaan Medis",
+        "Isolasi",
+        "Laboratorium",
+        "Pembersihan Industri"
+      ]
+    }
+  },
+  {
+    "id": "oxygen-mask-reservoir",
+    "slug": "oxygen-mask-reservoir",
+    "category": "respiratory",
+    "name": {
+      "en": "Oxygen Mask with Reservoir Bag",
+      "zh": "氧袋面罩",
+      "id": "Masker Oksigen dengan Kantung Reservoir"
+    },
+    "model": "NL-OMR01",
+    "features": {
+      "en": [
+        "Latex-free",
+        "Medical-grade PVC",
+        "High concentration oxygen delivery",
+        "Adjustable nose clip",
+        "Kink-resistant star lumen tube",
+        "CE MDR certified"
+      ],
+      "zh": [
+        "无乳胶",
+        "医用级PVC",
+        "可提供高浓度氧气",
+        "可调节鼻夹",
+        "防折星空内腔氧气管",
+        "CE MDR认证"
+      ],
+      "id": [
+        "Bebas lateks",
+        "PVC medis",
+        "Pengiriman oksigen konsentrasi tinggi",
+        "Klip hidung dapat disetel",
+        "Tabung anti tekuk",
+        "Sertifikasi CE MDR"
+      ]
+    },
+    "specs": [
+      {
+        "key": "Material",
+        "value": {
+          "en": "Medical-grade PVC",
+          "zh": "医用级PVC",
+          "id": "PVC medis"
+        }
+      },
+      {
+        "key": "Color",
+        "value": {
+          "en": "Green / Transparent",
+          "zh": "绿色/透明",
+          "id": "Hijau / Transparan"
+        }
+      },
+      {
+        "key": "Tube Length",
+        "value": {
+          "en": "2.1 m",
+          "zh": "2.1米",
+          "id": "2,1 m"
+        }
+      },
+      {
+        "key": "Packaging",
+        "value": {
+          "en": "50 pcs/box",
+          "zh": "50个/箱",
+          "id": "50 pcs/kotak"
+        }
+      },
+      {
+        "key": "MOQ",
+        "value": {
+          "en": "1,000 pcs",
+          "zh": "1000个",
+          "id": "1.000 pcs"
+        }
+      },
+      {
+        "key": "Certification",
+        "value": {
+          "en": "CE MDR, FDA, ISO13485",
+          "zh": "CE MDR、FDA、ISO13485",
+          "id": "CE MDR, FDA, ISO13485"
+        }
+      }
+    ],
+    "description": {
+      "en": "Oxygen mask with reservoir bag for high-concentration oxygen therapy. Suitable for patients requiring higher FiO2.",
+      "zh": "带储氧袋的氧气面罩，用于高浓度氧疗。适用于需要较高吸入氧浓度的患者。",
+      "id": "Masker oksigen dengan kantung reservoir untuk terapi oksigen konsentrasi tinggi."
+    },
+    "applications": {
+      "en": [
+        "Oxygen Therapy",
+        "Emergency",
+        "ICU",
+        "Respiratory Care"
+      ],
+      "zh": [
+        "氧疗",
+        "急诊",
+        "重症监护",
+        "呼吸治疗"
+      ],
+      "id": [
+        "Terapi Oksigen",
+        "Darurat",
+        "ICU",
+        "Perawatan Napas"
+      ]
+    }
+  },
+  {
+    "id": "nebulizer-kit",
+    "slug": "nebulizer-kit",
+    "category": "respiratory",
+    "name": {
+      "en": "Nebulizer Kit",
+      "zh": "雾化套件",
+      "id": "Kit Nebulizer"
+    },
+    "model": "NL-NK01",
+    "features": {
+      "en": [
+        "Medical-grade PVC",
+        "6cc nebulizer cup (8cc/10cc optional)",
+        "T-type, 135° mouthpiece options",
+        "Corrugated tube available",
+        "Customizable kit content",
+        "CE MDR certified"
+      ],
+      "zh": [
+        "医用级PVC",
+        "6cc雾化罐(可选8cc/10cc)",
+        "T型/135°口含器可选",
+        "可配波纹管",
+        "可定制套装内容",
+        "CE MDR认证"
+      ],
+      "id": [
+        "PVC medis",
+        "Cup nebulizer 6cc (8cc/10cc opsional)",
+        "Opsi T-type, 135°",
+        "Tabung bergelombang",
+        "Konten kit dapat disesuaikan",
+        "Sertifikasi CE MDR"
+      ]
+    },
+    "specs": [
+      {
+        "key": "Nebulizer Cup",
+        "value": {
+          "en": "6 cc (8 cc / 10 cc optional)",
+          "zh": "6cc(可选8cc/10cc)",
+          "id": "6 cc (8 cc / 10 cc opsional)"
+        }
+      },
+      {
+        "key": "Material",
+        "value": {
+          "en": "Medical-grade PVC",
+          "zh": "医用级PVC",
+          "id": "PVC medis"
+        }
+      },
+      {
+        "key": "Options",
+        "value": {
+          "en": "T-mouthpiece / 135° mouthpiece / Corrugated tube",
+          "zh": "T型口含器/135°口含器/波纹管",
+          "id": "T-mouthpiece / 135° / Tabung bergelombang"
+        }
+      },
+      {
+        "key": "Packaging",
+        "value": {
+          "en": "100 pcs/carton",
+          "zh": "100个/箱",
+          "id": "100 pcs/karton"
+        }
+      },
+      {
+        "key": "MOQ",
+        "value": {
+          "en": "1,000 pcs",
+          "zh": "1000个",
+          "id": "1.000 pcs"
+        }
+      },
+      {
+        "key": "Certification",
+        "value": {
+          "en": "CE MDR, FDA, ISO13485",
+          "zh": "CE MDR、FDA、ISO13485",
+          "id": "CE MDR, FDA, ISO13485"
+        }
+      }
+    ],
+    "description": {
+      "en": "Complete nebulizer kit for aerosol therapy. Customizable components to meet different clinical needs.",
+      "zh": "成套雾化套件，用于雾化治疗。组件可定制，满足不同临床需求。",
+      "id": "Kit nebulizer lengkap untuk terapi aerosol. Komponen dapat disesuaikan."
+    },
+    "applications": {
+      "en": [
+        "Respiratory Therapy",
+        "Asthma",
+        "Pediatric",
+        "Home Care"
+      ],
+      "zh": [
+        "呼吸治疗",
+        "哮喘",
+        "儿科",
+        "家庭护理"
+      ],
+      "id": [
+        "Terapi Napas",
+        "Asma",
+        "Pediatri",
+        "Perawatan Rumah"
+      ]
+    }
+  },
+  {
+    "id": "venturi-mask",
+    "slug": "venturi-mask",
+    "category": "respiratory",
+    "name": {
+      "en": "Venturi Mask",
+      "zh": "文丘里面罩",
+      "id": "Masker Venturi"
+    },
+    "model": "NL-VM01",
+    "features": {
+      "en": [
+        "Medical-grade PVC",
+        "7-color adjustable O2 concentration",
+        "Precise FiO2 delivery",
+        "Adjustable nose clip",
+        "Kink-resistant tubing",
+        "CE MDR certified"
+      ],
+      "zh": [
+        "医用级PVC",
+        "7色可调氧浓度",
+        "精确供氧",
+        "可调节鼻夹",
+        "防折管",
+        "CE MDR认证"
+      ],
+      "id": [
+        "PVC medis",
+        "Konsentrasi O2 7 warna",
+        "Pengiriman FiO2 presisi",
+        "Klip hidung dapat disetel",
+        "Tabung anti tekuk",
+        "Sertifikasi CE MDR"
+      ]
+    },
+    "specs": [
+      {
+        "key": "O2 Concentrations",
+        "value": {
+          "en": "24% / 28% / 31% / 35% / 40% / 50% / 60%",
+          "zh": "24%/28%/31%/35%/40%/50%/60%",
+          "id": "24% / 28% / 31% / 35% / 40% / 50% / 60%"
+        }
+      },
+      {
+        "key": "Size",
+        "value": {
+          "en": "S (Pediatric) / M / L (Adult) / XL (Adult Elongated)",
+          "zh": "S(小儿)/M/L(成人)/XL(成人加长)",
+          "id": "S (Anak) / M / L (Dewasa) / XL"
+        }
+      },
+      {
+        "key": "Material",
+        "value": {
+          "en": "Medical-grade PVC",
+          "zh": "医用级PVC",
+          "id": "PVC medis"
+        }
+      },
+      {
+        "key": "Packaging",
+        "value": {
+          "en": "100 pcs/carton",
+          "zh": "100个/箱",
+          "id": "100 pcs/karton"
+        }
+      },
+      {
+        "key": "MOQ",
+        "value": {
+          "en": "1,000 pcs",
+          "zh": "1000个",
+          "id": "1.000 pcs"
+        }
+      },
+      {
+        "key": "Certification",
+        "value": {
+          "en": "CE MDR, FDA, ISO13485",
+          "zh": "CE MDR、FDA、ISO13485",
+          "id": "CE MDR, FDA, ISO13485"
+        }
+      }
+    ],
+    "description": {
+      "en": "Venturi mask with 7-color adjustable oxygen concentration for precise FiO2 delivery. Ideal for COPD and chronic respiratory patients.",
+      "zh": "文丘里面罩，7色可调氧浓度，精确控制吸入氧浓度。适用于慢阻肺和慢性呼吸疾病患者。",
+      "id": "Masker Venturi dengan 7 warna konsentrasi oksigen untuk pengiriman FiO2 presisi."
+    },
+    "applications": {
+      "en": [
+        "Oxygen Therapy",
+        "COPD",
+        "Respiratory Care",
+        "Emergency"
+      ],
+      "zh": [
+        "氧疗",
+        "慢阻肺",
+        "呼吸治疗",
+        "急诊"
+      ],
+      "id": [
+        "Terapi Oksigen",
+        "COPD",
+        "Perawatan Napas",
+        "Darurat"
+      ]
+    }
+  },
+  {
+    "id": "yankauer-suction",
+    "slug": "yankauer-suction",
+    "category": "respiratory",
+    "name": {
+      "en": "Connecting Tube with Yankauer Handle",
+      "zh": "接引管加杨克手柄",
+      "id": "Tabung Konektor dengan Handle Yankauer"
+    },
+    "model": "NL-YS01",
+    "features": {
+      "en": [
+        "Medical-grade SBC/PVC",
+        "Air hole yes/no options",
+        "Ball head/flat head options",
+        "Multiple tube diameters",
+        "Customizable length"
+      ],
+      "zh": [
+        "医用级SBC/PVC",
+        "带/不带排气孔",
+        "球头/平头可选",
+        "多种管径",
+        "可定制长度"
+      ],
+      "id": [
+        "SBC/PVC medis",
+        "Opsi lubang udara",
+        "Opsi kepala bola/datar",
+        "Beberapa diameter tabung",
+        "Panjang dapat disesuaikan"
+      ]
+    },
+    "specs": [
+      {
+        "key": "Material",
+        "value": {
+          "en": "Medical-grade SBC / PVC",
+          "zh": "医用级SBC/PVC",
+          "id": "SBC/PVC medis"
+        }
+      },
+      {
+        "key": "Tube Diameter",
+        "value": {
+          "en": "1/4\" / 3/16\" / 9/32\"",
+          "zh": "1/4\"/3/16\"/9/32\"",
+          "id": "1/4\" / 3/16\" / 9/32\""
+        }
+      },
+      {
+        "key": "Connector",
+        "value": {
+          "en": "Long / Short / Trumpet",
+          "zh": "长接头/短接头/喇叭接头",
+          "id": "Panjang / Pendek / Trumpet"
+        }
+      },
+      {
+        "key": "Packaging",
+        "value": {
+          "en": "100 pcs/box",
+          "zh": "100个/箱",
+          "id": "100 pcs/kotak"
+        }
+      },
+      {
+        "key": "MOQ",
+        "value": {
+          "en": "1,000 pcs",
+          "zh": "1000个",
+          "id": "1.000 pcs"
+        }
+      }
+    ],
+    "description": {
+      "en": "Connecting tube with Yankauer handle for effective oral suction. Multiple configurations available.",
+      "zh": "接引管加杨克手柄，用于有效的口腔吸引。多种配置可选。",
+      "id": "Tabung konektor dengan handle Yankauer untuk suction oral yang efektif."
+    },
+    "applications": {
+      "en": [
+        "Suction",
+        "Surgery",
+        "ICU",
+        "Emergency"
+      ],
+      "zh": [
+        "吸引",
+        "手术",
+        "重症监护",
+        "急诊"
+      ],
+      "id": [
+        "Suction",
+        "Bedah",
+        "ICU",
+        "Darurat"
+      ]
+    }
+  },
+  {
+    "id": "suction-catheter",
+    "slug": "suction-catheter",
+    "category": "respiratory",
+    "name": {
+      "en": "Suction Catheter",
+      "zh": "吸痰管",
+      "id": "Kateter Suction"
+    },
+    "model": "NL-SC01",
+    "features": {
+      "en": [
+        "Non-toxic medical-grade PVC",
+        "Clear and soft",
+        "Color-coded connector",
+        "Multiple lengths",
+        "Sterile"
+      ],
+      "zh": [
+        "无毒医用级PVC",
+        "清澈柔软",
+        "色码接头",
+        "多种长度可选",
+        "灭菌"
+      ],
+      "id": [
+        "PVC medis non-toksik",
+        "Jernih dan lembut",
+        "Konektor kode warna",
+        "Beberapa panjang",
+        "Steril"
+      ]
+    },
+    "specs": [
+      {
+        "key": "Material",
+        "value": {
+          "en": "Medical-grade PVC",
+          "zh": "医用级PVC",
+          "id": "PVC medis"
+        }
+      },
+      {
+        "key": "Length",
+        "value": {
+          "en": "38 cm / 45 cm / 50 cm",
+          "zh": "38cm/45cm/50cm",
+          "id": "38 cm / 45 cm / 50 cm"
+        }
+      },
+      {
+        "key": "Connector",
+        "value": {
+          "en": "Color-coded",
+          "zh": "色码接头",
+          "id": "Kode warna"
+        }
+      },
+      {
+        "key": "Packaging",
+        "value": {
+          "en": "100 pcs/box",
+          "zh": "100个/箱",
+          "id": "100 pcs/kotak"
+        }
+      },
+      {
+        "key": "MOQ",
+        "value": {
+          "en": "2,000 pcs",
+          "zh": "2000个",
+          "id": "2.000 pcs"
+        }
+      }
+    ],
+    "description": {
+      "en": "Suction catheter for respiratory tract suctioning. Color-coded connectors for easy size identification.",
+      "zh": "吸痰管用于呼吸道吸引。色码接头便于识别尺寸。",
+      "id": "Kateter suction untuk penghisapan saluran pernapasan. Konektor kode warna."
+    },
+    "applications": {
+      "en": [
+        "Suction",
+        "ICU",
+        "Respiratory Care",
+        "Emergency"
+      ],
+      "zh": [
+        "吸引",
+        "重症监护",
+        "呼吸治疗",
+        "急诊"
+      ],
+      "id": [
+        "Suction",
+        "ICU",
+        "Perawatan Napas",
+        "Darurat"
+      ]
+    }
+  },
+  {
+    "id": "foley-catheter-latex",
+    "slug": "foley-catheter-latex",
+    "category": "catheter",
+    "name": {
+      "en": "Latex Foley Catheter",
+      "zh": "乳胶导尿管",
+      "id": "Kateter Foley Lateks"
+    },
+    "model": "NL-UC02",
+    "features": {
+      "en": [
+        "100% Latex, silicone coated",
+        "Hard & soft valves available",
+        "Color-coded sizes",
+        "Smooth balloon tip",
+        "EO sterilized",
+        "CE MDR certified"
+      ],
+      "zh": [
+        "100%乳胶硅胶涂层",
+        "硬阀/软阀可选",
+        "色码标识尺寸",
+        "光滑气囊尖端",
+        "EO灭菌",
+        "CE MDR认证"
+      ],
+      "id": [
+        "100% lateks, lapisan silikon",
+        "Katup keras/lembut",
+        "Ukuran kode warna",
+        "Ujung balon halus",
+        "Steril EO",
+        "Sertifikasi CE MDR"
+      ]
+    },
+    "specs": [
+      {
+        "key": "Type",
+        "value": {
+          "en": "Two-way",
+          "zh": "双腔",
+          "id": "Two-way"
+        }
+      },
+      {
+        "key": "Size",
+        "value": {
+          "en": "FR 6 - FR 24",
+          "zh": "FR 6-FR 24",
+          "id": "FR 6 - FR 24"
+        }
+      },
+      {
+        "key": "Material",
+        "value": {
+          "en": "Latex with silicone coating",
+          "zh": "乳胶硅胶涂层",
+          "id": "Lateks lapisan silikon"
+        }
+      },
+      {
+        "key": "Balloon",
+        "value": {
+          "en": "5-10 ml / 30 ml",
+          "zh": "5-10ml/30ml",
+          "id": "5-10 ml / 30 ml"
+        }
+      },
+      {
+        "key": "Packaging",
+        "value": {
+          "en": "20 pcs/box",
+          "zh": "20个/箱",
+          "id": "20 pcs/kotak"
+        }
+      },
+      {
+        "key": "MOQ",
+        "value": {
+          "en": "500 pcs",
+          "zh": "500个",
+          "id": "500 pcs"
+        }
+      },
+      {
+        "key": "Certification",
+        "value": {
+          "en": "CE MDR, ISO13485",
+          "zh": "CE MDR、ISO13485",
+          "id": "CE MDR, ISO13485"
+        }
+      }
+    ],
+    "description": {
+      "en": "Latex Foley catheter with silicone coating for smooth insertion. Two-way design for drainage and balloon inflation.",
+      "zh": "乳胶Foley导尿管，硅胶涂层便于插入。双腔设计用于引流和气囊充胀。",
+      "id": "Kateter Foley lateks dengan lapisan silikon."
+    },
+    "applications": {
+      "en": [
+        "Urinary Drainage",
+        "Post-Surgery",
+        "Long-term Care"
+      ],
+      "zh": [
+        "尿液引流",
+        "术后",
+        "长期护理"
+      ],
+      "id": [
+        "Drainase Urin",
+        "Pasca Bedah",
+        "Perawatan Jangka Panjang"
+      ]
+    }
+  },
+  {
+    "id": "urine-bag",
+    "slug": "urine-bag",
+    "category": "catheter",
+    "name": {
+      "en": "Urine Bag",
+      "zh": "尿袋",
+      "id": "Kantung Urin"
+    },
+    "model": "NL-UB01",
+    "features": {
+      "en": [
+        "Medical-grade PVC",
+        "Anti-reflux valve",
+        "Graduated markings",
+        "Drainage port at bottom",
+        "Sterile"
+      ],
+      "zh": [
+        "医用级PVC",
+        "防逆流阀",
+        "刻度标记",
+        "底部排液口",
+        "灭菌"
+      ],
+      "id": [
+        "PVC medis",
+        "Katup anti-refluks",
+        "Tanda ukur",
+        "Port drainase",
+        "Steril"
+      ]
+    },
+    "specs": [
+      {
+        "key": "Material",
+        "value": {
+          "en": "Medical-grade PVC",
+          "zh": "医用级PVC",
+          "id": "PVC medis"
+        }
+      },
+      {
+        "key": "Capacity",
+        "value": {
+          "en": "1,000 ml / 2,000 ml",
+          "zh": "1000ml/2000ml",
+          "id": "1.000 ml / 2.000 ml"
+        }
+      },
+      {
+        "key": "Tube Length",
+        "value": {
+          "en": "90 cm",
+          "zh": "90cm",
+          "id": "90 cm"
+        }
+      },
+      {
+        "key": "Packaging",
+        "value": {
+          "en": "50 pcs/box",
+          "zh": "50个/箱",
+          "id": "50 pcs/kotak"
+        }
+      },
+      {
+        "key": "MOQ",
+        "value": {
+          "en": "500 pcs",
+          "zh": "500个",
+          "id": "500 pcs"
+        }
+      }
+    ],
+    "description": {
+      "en": "Urine drainage bag for patient urine collection. Non-toxic, non-pyrogenic, single-use.",
+      "zh": "尿袋用于收集患者尿液。无毒、无热原、一次性使用。",
+      "id": "Kantung urin untuk pengumpulan urin pasien."
+    },
+    "applications": {
+      "en": [
+        "Urinary Drainage",
+        "Post-Surgery",
+        "ICU",
+        "Home Care"
+      ],
+      "zh": [
+        "尿液引流",
+        "术后",
+        "重症监护",
+        "家庭护理"
+      ],
+      "id": [
+        "Drainase Urin",
+        "Pasca Bedah",
+        "ICU",
+        "Perawatan Rumah"
+      ]
+    }
+  },
+  {
+    "id": "universal-pack",
+    "slug": "universal-pack",
+    "category": "surgical",
+    "name": {
+      "en": "Universal Pack",
+      "zh": "通用包",
+      "id": "Paket Universal"
+    },
+    "model": "NL-UP01",
+    "features": {
+      "en": [
+        "1x OP-tape 9x50cm",
+        "1x Mayo stand cover 78x145cm reinforced",
+        "4x Hand towels",
+        "1x Instrument table cover 150x190cm",
+        "All components customizable",
+        "Sterile"
+      ],
+      "zh": [
+        "1x手术胶带9x50cm",
+        "1x迈奥式台套78x145cm加强型",
+        "4x擦手巾",
+        "1x器械台罩150x190cm",
+        "所有配件可定制",
+        "灭菌"
+      ],
+      "id": [
+        "1x OP-tape 9x50cm",
+        "1x Sarung meja Mayo 78x145cm",
+        "4x Handuk",
+        "1x Penutup meja instrumen 150x190cm",
+        "Semua komponen dapat disesuaikan",
+        "Steril"
+      ]
+    },
+    "specs": [
+      {
+        "key": "Code",
+        "value": {
+          "en": "CD-087",
+          "zh": "CD-087",
+          "id": "CD-087"
+        }
+      },
+      {
+        "key": "Components",
+        "value": {
+          "en": "1x OP-tape + 1x Mayo cover + 4x Towels + 1x Table cover",
+          "zh": "手术胶带+迈奥式台套+擦手巾+器械台罩",
+          "id": "1x OP-tape + 1x Sarung Mayo + 4x Handuk + 1x Penutup meja"
+        }
+      },
+      {
+        "key": "Packaging",
+        "value": {
+          "en": "5 sets/box",
+          "zh": "5套/箱",
+          "id": "5 set/kotak"
+        }
+      },
+      {
+        "key": "MOQ",
+        "value": {
+          "en": "200 sets",
+          "zh": "200套",
+          "id": "200 set"
+        }
+      },
+      {
+        "key": "Certification",
+        "value": {
+          "en": "CE MDR, ISO13485",
+          "zh": "CE MDR、ISO13485",
+          "id": "CE MDR, ISO13485"
+        }
+      }
+    ],
+    "description": {
+      "en": "Universal surgical pack for general procedures. Customizable component configuration to meet clinical needs.",
+      "zh": "通用手术包，适用于一般手术。组件可定制满足临床需求。",
+      "id": "Paket bedah universal untuk prosedur umum. Konfigurasi komponen dapat disesuaikan."
+    },
+    "applications": {
+      "en": [
+        "General Surgery",
+        "Outpatient",
+        "Minor Procedures"
+      ],
+      "zh": [
+        "普外科",
+        "门诊手术",
+        "小型手术"
+      ],
+      "id": [
+        "Bedah Umum",
+        "Rawat Jalan",
+        "Prosedur Minor"
+      ]
+    }
+  },
+  {
+    "id": "c-section-pack",
+    "slug": "c-section-pack",
+    "category": "surgical",
+    "name": {
+      "en": "C-Section Pack",
+      "zh": "剖腹产包",
+      "id": "Paket Operasi Caesar"
+    },
+    "model": "NL-CS01",
+    "features": {
+      "en": [
+        "1x C-section drape 186/250x330cm with fluid pouch + incision film",
+        "1x Instrument table cover 150x190cm",
+        "1x Mayo stand cover 78x145cm",
+        "4x Hand towels",
+        "1x Baby sheet 75x120cm",
+        "1x OP-tape 9x50cm",
+        "All components customizable",
+        "Sterile"
+      ],
+      "zh": [
+        "1x剖腹产手术单186/250x330cm带集液袋+切口膜",
+        "1x器械台罩150x190cm",
+        "1x迈奥式台套78x145cm加强型",
+        "4x擦手巾",
+        "1x婴儿包裹单75x120cm",
+        "1x手术胶带9x50cm",
+        "所有配件可定制",
+        "灭菌"
+      ],
+      "id": [
+        "1x Drape Caesar 186/250x330cm + film insisi",
+        "1x Penutup meja 150x190cm",
+        "1x Sarung Mayo 78x145cm",
+        "4x Handuk",
+        "1x Kain bayi 75x120cm",
+        "1x OP-tape 9x50cm",
+        "Semua dapat disesuaikan",
+        "Steril"
+      ]
+    },
+    "specs": [
+      {
+        "key": "Code",
+        "value": {
+          "en": "CD-097",
+          "zh": "CD-097",
+          "id": "CD-097"
+        }
+      },
+      {
+        "key": "Components",
+        "value": {
+          "en": "C-section drape + Table cover + Mayo cover + Towels + Baby sheet + OP-tape",
+          "zh": "剖腹产单+器械台罩+台套+擦手巾+婴儿单+胶带",
+          "id": "Drape + Penutup + Sarung Mayo + Handuk + Kain bayi + OP-tape"
+        }
+      },
+      {
+        "key": "Packaging",
+        "value": {
+          "en": "5 sets/box",
+          "zh": "5套/箱",
+          "id": "5 set/kotak"
+        }
+      },
+      {
+        "key": "MOQ",
+        "value": {
+          "en": "100 sets",
+          "zh": "100套",
+          "id": "100 set"
+        }
+      },
+      {
+        "key": "Certification",
+        "value": {
+          "en": "CE MDR, ISO13485",
+          "zh": "CE MDR、ISO13485",
+          "id": "CE MDR, ISO13485"
+        }
+      }
+    ],
+    "description": {
+      "en": "Complete C-section surgical pack with fluid collection pouch and incision film. All components can be customized per surgeon preference.",
+      "zh": "完整剖腹产手术包，含集液袋和切口保护膜。所有组件可根据医生习惯定制。",
+      "id": "Paket bedah Caesar lengkap dengan kantong penampung cairan dan film insisi."
+    },
+    "applications": {
+      "en": [
+        "Obstetrics",
+        "C-Section",
+        "Surgery"
+      ],
+      "zh": [
+        "产科",
+        "剖腹产",
+        "手术"
+      ],
+      "id": [
+        "Obstetri",
+        "Operasi Caesar",
+        "Bedah"
+      ]
+    }
+  },
+  {
+    "id": "angiography-pack",
+    "slug": "angiography-pack",
+    "category": "surgical",
+    "name": {
+      "en": "Angiography Pack",
+      "zh": "心血管包",
+      "id": "Paket Angiografi"
+    },
+    "model": "NL-AP01",
+    "features": {
+      "en": [
+        "1x Angiography drape 230x300cm with 4 openings",
+        "1x Instrument table cover 150x140cm",
+        "2x Hand towels",
+        "1x Absorbent sheet 50x80cm",
+        "1x Adhesive drape 50x60cm",
+        "All components customizable",
+        "Sterile"
+      ],
+      "zh": [
+        "1x心血管手术单230x300cm(2x5x7cm+2x7x10cm孔)",
+        "1x器械台罩150x140cm",
+        "2x擦手巾",
+        "1x吸水垫单50x80cm",
+        "1x自粘铺单50x60cm",
+        "所有配件可定制",
+        "灭菌"
+      ],
+      "id": [
+        "1x Drape angiografi 230x300cm",
+        "1x Penutup meja 150x140cm",
+        "2x Handuk",
+        "1x Lembar serap 50x80cm",
+        "1x Drape perekat 50x60cm",
+        "Semua dapat disesuaikan",
+        "Steril"
+      ]
+    },
+    "specs": [
+      {
+        "key": "Code",
+        "value": {
+          "en": "CD-093",
+          "zh": "CD-093",
+          "id": "CD-093"
+        }
+      },
+      {
+        "key": "Components",
+        "value": {
+          "en": "Angiography drape + Table cover + Towels + Absorbent sheet + Adhesive drape",
+          "zh": "心血管单+器械台罩+擦手巾+吸水垫+自粘铺单",
+          "id": "Drape angiografi + Penutup + Handuk + Lembar serap + Drape perekat"
+        }
+      },
+      {
+        "key": "Packaging",
+        "value": {
+          "en": "5 sets/box",
+          "zh": "5套/箱",
+          "id": "5 set/kotak"
+        }
+      },
+      {
+        "key": "MOQ",
+        "value": {
+          "en": "100 sets",
+          "zh": "100套",
+          "id": "100 set"
+        }
+      },
+      {
+        "key": "Certification",
+        "value": {
+          "en": "CE MDR, ISO13485",
+          "zh": "CE MDR、ISO13485",
+          "id": "CE MDR, ISO13485"
+        }
+      }
+    ],
+    "description": {
+      "en": "Angiography surgical pack with multi-opening drape for catheterization procedures. Customizable component configuration.",
+      "zh": "心血管介入手术包，多孔设计手术单。组件配置可定制。",
+      "id": "Paket bedah angiografi untuk prosedur kateterisasi."
+    },
+    "applications": {
+      "en": [
+        "Cardiology",
+        "Angiography",
+        "Interventional Radiology"
+      ],
+      "zh": [
+        "心血管",
+        "血管造影",
+        "介入放射"
+      ],
+      "id": [
+        "Kardiologi",
+        "Angiografi",
+        "Radiologi Intervensi"
+      ]
+    }
+  },
+  {
+    "id": "ophthalmic-pack",
+    "slug": "ophthalmic-pack",
+    "category": "surgical",
+    "name": {
+      "en": "Ophthalmic Pack",
+      "zh": "眼科包",
+      "id": "Paket Oftalmik"
+    },
+    "model": "NL-OP01",
+    "features": {
+      "en": [
+        "1x Ophthalmic drape 150x180cm with fluid pouch",
+        "1x Incision film 10x12cm",
+        "1x Instrument table cover 150x140cm",
+        "Oval aperture 5x7cm",
+        "All components customizable",
+        "Sterile"
+      ],
+      "zh": [
+        "1x眼科手术单150x180cm带集液袋",
+        "1x切口膜10x12cm",
+        "1x器械台罩150x140cm",
+        "椭圆孔5x7cm",
+        "所有配件可定制",
+        "灭菌"
+      ],
+      "id": [
+        "1x Drape oftalmik 150x180cm",
+        "1x Film insisi 10x12cm",
+        "1x Penutup meja 150x140cm",
+        "Lubang oval 5x7cm",
+        "Semua dapat disesuaikan",
+        "Steril"
+      ]
+    },
+    "specs": [
+      {
+        "key": "Code",
+        "value": {
+          "en": "CD-099",
+          "zh": "CD-099",
+          "id": "CD-099"
+        }
+      },
+      {
+        "key": "Components",
+        "value": {
+          "en": "Ophthalmic drape + Incision film + Table cover",
+          "zh": "眼科单+切口膜+器械台罩",
+          "id": "Drape oftalmik + Film insisi + Penutup meja"
+        }
+      },
+      {
+        "key": "Packaging",
+        "value": {
+          "en": "10 sets/box",
+          "zh": "10套/箱",
+          "id": "10 set/kotak"
+        }
+      },
+      {
+        "key": "MOQ",
+        "value": {
+          "en": "100 sets",
+          "zh": "100套",
+          "id": "100 set"
+        }
+      },
+      {
+        "key": "Certification",
+        "value": {
+          "en": "CE MDR, ISO13485",
+          "zh": "CE MDR、ISO13485",
+          "id": "CE MDR, ISO13485"
+        }
+      }
+    ],
+    "description": {
+      "en": "Ophthalmic surgical pack with fluid collection pouch. Designed for eye surgeries requiring sterile barrier protection.",
+      "zh": "眼科手术包，带集液袋设计。适用于需要无菌屏障保护的眼科手术。",
+      "id": "Paket bedah oftalmik untuk operasi mata."
+    },
+    "applications": {
+      "en": [
+        "Ophthalmology",
+        "Cataract Surgery",
+        "Eye Surgery"
+      ],
+      "zh": [
+        "眼科",
+        "白内障手术",
+        "眼部手术"
+      ],
+      "id": [
+        "Oftalmologi",
+        "Operasi Katarak",
+        "Bedah Mata"
+      ]
+    }
+  },
+  {
+    "id": "laparoscopy-drape",
+    "slug": "laparoscopy-drape",
+    "category": "surgical",
+    "name": {
+      "en": "Laparoscopy Drape",
+      "zh": "腹腔镜单",
+      "id": "Drape Laparoskopi"
+    },
+    "model": "NL-LD01",
+    "features": {
+      "en": [
+        "Size 230x300cm",
+        "Triangular aperture 25x20cm",
+        "Adhesive split sheet included",
+        "With tube holders",
+        "4x Hand towels",
+        "1x OP-tape",
+        "All components customizable",
+        "Sterile"
+      ],
+      "zh": [
+        "230x300cm",
+        "三角孔25x20cm",
+        "含自粘U型单",
+        "带管夹",
+        "4x擦手巾",
+        "1x手术胶带",
+        "所有配件可定制",
+        "灭菌"
+      ],
+      "id": [
+        "230x300cm",
+        "Lubang segitiga 25x20cm",
+        "+ Split sheet perekat",
+        "+ Penjepit tabung",
+        "4x Handuk",
+        "1x OP-tape",
+        "Semua dapat disesuaikan",
+        "Steril"
+      ]
+    },
+    "specs": [
+      {
+        "key": "Code",
+        "value": {
+          "en": "CD-086",
+          "zh": "CD-086",
+          "id": "CD-086"
+        }
+      },
+      {
+        "key": "Size",
+        "value": {
+          "en": "230 x 300 cm",
+          "zh": "230x300cm",
+          "id": "230 x 300 cm"
+        }
+      },
+      {
+        "key": "Aperture",
+        "value": {
+          "en": "Triangular 25 x 20 cm",
+          "zh": "三角孔25x20cm",
+          "id": "Segitiga 25 x 20 cm"
+        }
+      },
+      {
+        "key": "Components",
+        "value": {
+          "en": "Drape + Split sheet + Tube holders + Towels + OP-tape + Table cover",
+          "zh": "手术单+U型单+管夹+擦手巾+胶带+台罩",
+          "id": "Drape + Split sheet + Penjepit + Handuk + OP-tape + Penutup"
+        }
+      },
+      {
+        "key": "Packaging",
+        "value": {
+          "en": "10 sets/box",
+          "zh": "10套/箱",
+          "id": "10 set/kotak"
+        }
+      },
+      {
+        "key": "MOQ",
+        "value": {
+          "en": "100 sets",
+          "zh": "100套",
+          "id": "100 set"
+        }
+      },
+      {
+        "key": "Certification",
+        "value": {
+          "en": "CE MDR, ISO13485",
+          "zh": "CE MDR、ISO13485",
+          "id": "CE MDR, ISO13485"
+        }
+      }
+    ],
+    "description": {
+      "en": "Laparoscopy drape set for minimally invasive surgery. Adhesive split sheet and tube holders included.",
+      "zh": "腹腔镜手术单套装，用于微创手术。含自粘U型单和管夹。",
+      "id": "Set drape laparoskopi untuk bedah minimal invasif."
+    },
+    "applications": {
+      "en": [
+        "Laparoscopy",
+        "Minimally Invasive Surgery",
+        "General Surgery"
+      ],
+      "zh": [
+        "腹腔镜",
+        "微创手术",
+        "普外科"
+      ],
+      "id": [
+        "Laparoskopi",
+        "Bedah Minimal Invasif",
+        "Bedah Umum"
+      ]
+    }
+  },
+  {
+    "id": "knee-arthroscopy-pack",
+    "slug": "knee-arthroscopy-pack",
+    "category": "surgical",
+    "name": {
+      "en": "Knee Arthroscopy Pack",
+      "zh": "膝关节镜包",
+      "id": "Paket Artroskopi Lutut"
+    },
+    "model": "NL-KA01",
+    "features": {
+      "en": [
+        "1x Fluid collection drape 230x320cm",
+        "1x Mayo stand cover 78x145cm",
+        "1x Elastic stockinet 22x75cm",
+        "4x Hand towels",
+        "2x OP-tape 9x50cm",
+        "1x Instrument table cover 150x190cm",
+        "All components customizable"
+      ],
+      "zh": [
+        "1x集液袋手术单230x320cm",
+        "1x迈奥式台套78x145cm加强型",
+        "1x弹力袜套22x75cm",
+        "4x擦手巾",
+        "2x手术胶带9x50cm",
+        "1x器械台罩150x190cm",
+        "所有配件可定制"
+      ],
+      "id": [
+        "1x Drape 230x320cm + kantong",
+        "1x Sarung Mayo 78x145cm",
+        "1x Stockinet elastis 22x75cm",
+        "4x Handuk",
+        "2x OP-tape 9x50cm",
+        "1x Penutup meja 150x190cm",
+        "Semua dapat disesuaikan"
+      ]
+    },
+    "specs": [
+      {
+        "key": "Code",
+        "value": {
+          "en": "CD-092",
+          "zh": "CD-092",
+          "id": "CD-092"
+        }
+      },
+      {
+        "key": "Components",
+        "value": {
+          "en": "Arthroscopy drape + Mayo cover + Stockinet + Towels + OP-tape + Table cover",
+          "zh": "膝关镜单+台套+袜套+擦手巾+胶带+台罩",
+          "id": "Drape artroskopi + Sarung Mayo + Stockinet + Handuk + OP-tape + Penutup"
+        }
+      },
+      {
+        "key": "Packaging",
+        "value": {
+          "en": "5 sets/box",
+          "zh": "5套/箱",
+          "id": "5 set/kotak"
+        }
+      },
+      {
+        "key": "MOQ",
+        "value": {
+          "en": "100 sets",
+          "zh": "100套",
+          "id": "100 set"
+        }
+      },
+      {
+        "key": "Certification",
+        "value": {
+          "en": "CE MDR, ISO13485",
+          "zh": "CE MDR、ISO13485",
+          "id": "CE MDR, ISO13485"
+        }
+      }
+    ],
+    "description": {
+      "en": "Knee arthroscopy surgical pack with fluid collection system. Designed for orthopedic arthroscopic procedures.",
+      "zh": "膝关节镜手术包，带集液系统。专为骨科关节镜手术设计。",
+      "id": "Paket bedah artroskopi lutut untuk prosedur ortopedi."
+    },
+    "applications": {
+      "en": [
+        "Orthopedics",
+        "Arthroscopy",
+        "Knee Surgery"
+      ],
+      "zh": [
+        "骨科",
+        "关节镜",
+        "膝盖手术"
+      ],
+      "id": [
+        "Ortopedi",
+        "Artroskopi",
+        "Bedah Lutut"
+      ]
+    }
+  },
+  {
+    "id": "delivery-pack",
+    "slug": "delivery-pack",
+    "category": "surgical",
+    "name": {
+      "en": "Delivery Pack",
+      "zh": "顺产包",
+      "id": "Paket Persalinan"
+    },
+    "model": "NL-DP01",
+    "features": {
+      "en": [
+        "1x Instrument table cover 90x150cm",
+        "1x Stitching sheet 75x120cm",
+        "1x Bed pad 60x90cm",
+        "1x Baby sheet 56x75cm",
+        "6x Towels 21x25cm",
+        "1x Bed pad 60x60cm",
+        "All components customizable"
+      ],
+      "zh": [
+        "1x器械台罩90x150cm(垫产妇下)",
+        "1x缝合单75x120cm",
+        "1x床垫60x90cm",
+        "1x婴儿吸水垫56x75cm",
+        "6x毛巾21x25cm",
+        "1x床垫60x60cm",
+        "所有配件可定制"
+      ],
+      "id": [
+        "1x Penutup meja 90x150cm",
+        "1x Kain jahit 75x120cm",
+        "1x Alas tidur 60x90cm",
+        "1x Kain bayi 56x75cm",
+        "6x Handuk 21x25cm",
+        "1x Alas tidur 60x60cm",
+        "Semua dapat disesuaikan"
+      ]
+    },
+    "specs": [
+      {
+        "key": "Code",
+        "value": {
+          "en": "CD-096",
+          "zh": "CD-096",
+          "id": "CD-096"
+        }
+      },
+      {
+        "key": "Components",
+        "value": {
+          "en": "Table cover + Stitching sheet + Bed pads + Baby sheet + Towels",
+          "zh": "台罩+缝合单+床垫+婴儿单+毛巾",
+          "id": "Penutup + Kain jahit + Alas + Kain bayi + Handuk"
+        }
+      },
+      {
+        "key": "Packaging",
+        "value": {
+          "en": "10 sets/box",
+          "zh": "10套/箱",
+          "id": "10 set/kotak"
+        }
+      },
+      {
+        "key": "MOQ",
+        "value": {
+          "en": "100 sets",
+          "zh": "100套",
+          "id": "100 set"
+        }
+      },
+      {
+        "key": "Certification",
+        "value": {
+          "en": "CE MDR, ISO13485",
+          "zh": "CE MDR、ISO13485",
+          "id": "CE MDR, ISO13485"
+        }
+      }
+    ],
+    "description": {
+      "en": "Delivery pack for natural childbirth procedures. Complete set of sterile drapes and accessories.",
+      "zh": "顺产手术包，全套无菌铺单和配件。",
+      "id": "Paket persalinan untuk prosedur kelahiran normal."
+    },
+    "applications": {
+      "en": [
+        "Obstetrics",
+        "Natural Birth",
+        "Delivery Room"
+      ],
+      "zh": [
+        "产科",
+        "自然分娩",
+        "产房"
+      ],
+      "id": [
+        "Obstetri",
+        "Persalinan Normal",
+        "Ruang Bersalin"
+      ]
+    }
+  },
+  {
+    "id": "gynecological-pack",
+    "slug": "gynecological-pack",
+    "category": "surgical",
+    "name": {
+      "en": "Gynecology / Cystoscopy Pack",
+      "zh": "妇科/膀胱包",
+      "id": "Paket Ginekologi / Sistoskopi"
+    },
+    "model": "NL-GP01",
+    "features": {
+      "en": [
+        "1x Gyn/cyst drape 75x175cm with 9x15cm aperture",
+        "2x Leggings 75x120cm",
+        "1x Utility drape 75x80cm",
+        "1x Instrument table cover 150x190cm",
+        "All components customizable",
+        "Sterile"
+      ],
+      "zh": [
+        "1x妇科/膀胱手术单75x175cm开口9x15cm",
+        "2x腿套75x120cm",
+        "1x通用铺单75x80cm",
+        "1x器械台罩150x190cm",
+        "所有配件可定制",
+        "灭菌"
+      ],
+      "id": [
+        "1x Drape ginekologi 75x175cm",
+        "2x Kain kaki 75x120cm",
+        "1x Drape serbaguna 75x80cm",
+        "1x Penutup meja 150x190cm",
+        "Semua dapat disesuaikan",
+        "Steril"
+      ]
+    },
+    "specs": [
+      {
+        "key": "Code",
+        "value": {
+          "en": "CD-094",
+          "zh": "CD-094",
+          "id": "CD-094"
+        }
+      },
+      {
+        "key": "Components",
+        "value": {
+          "en": "Gyn drape + Leggings + Utility drape + Table cover",
+          "zh": "妇科单+腿套+通用铺单+台罩",
+          "id": "Drape ginekologi + Kain kaki + Drape serbaguna + Penutup"
+        }
+      },
+      {
+        "key": "Packaging",
+        "value": {
+          "en": "10 sets/box",
+          "zh": "10套/箱",
+          "id": "10 set/kotak"
+        }
+      },
+      {
+        "key": "MOQ",
+        "value": {
+          "en": "100 sets",
+          "zh": "100套",
+          "id": "100 set"
+        }
+      },
+      {
+        "key": "Certification",
+        "value": {
+          "en": "CE MDR, ISO13485",
+          "zh": "CE MDR、ISO13485",
+          "id": "CE MDR, ISO13485"
+        }
+      }
+    ],
+    "description": {
+      "en": "Gynecology and cystoscopy surgical pack. Leggings and aperture drape for diagnostic and surgical procedures.",
+      "zh": "妇科及膀胱镜手术包。腿套和开口铺单适用于诊断和手术。",
+      "id": "Paket bedah ginekologi dan sistoskopi."
+    },
+    "applications": {
+      "en": [
+        "Gynecology",
+        "Cystoscopy",
+        "Urology"
+      ],
+      "zh": [
+        "妇科",
+        "膀胱镜",
+        "泌尿科"
+      ],
+      "id": [
+        "Ginekologi",
+        "Sistoskopi",
+        "Urologi"
+      ]
+    }
+  },
+  {
+    "id": "surgical-blade",
+    "slug": "surgical-blade",
+    "category": "protection",
+    "name": {
+      "en": "Surgical Blade",
+      "zh": "手术刀片",
+      "id": "Pisau Bedah"
+    },
+    "model": "NL-SB01",
+    "features": {
+      "en": [
+        "Carbon steel / Stainless steel",
+        "Sterile",
+        "Single use",
+        "Precision ground edge",
+        "Compatible with standard handles"
+      ],
+      "zh": [
+        "碳钢/不锈钢",
+        "灭菌",
+        "一次性使用",
+        "精密研磨刀口",
+        "兼容标准刀柄"
+      ],
+      "id": [
+        "Baja karbon / Baja tahan karat",
+        "Steril",
+        "Sekali pakai",
+        "Tepi presisi",
+        "Kompatibel dengan gagang standar"
+      ]
+    },
+    "specs": [
+      {
+        "key": "Code",
+        "value": {
+          "en": "CD-065",
+          "zh": "CD-065",
+          "id": "CD-065"
+        }
+      },
+      {
+        "key": "Size Range",
+        "value": {
+          "en": "10# - 36#",
+          "zh": "10#-36#",
+          "id": "10# - 36#"
+        }
+      },
+      {
+        "key": "Material",
+        "value": {
+          "en": "Carbon Steel / Stainless Steel",
+          "zh": "碳钢/不锈钢",
+          "id": "Baja karbon / Baja tahan karat"
+        }
+      },
+      {
+        "key": "Packaging",
+        "value": {
+          "en": "100 pcs/box",
+          "zh": "100个/箱",
+          "id": "100 pcs/kotak"
+        }
+      },
+      {
+        "key": "MOQ",
+        "value": {
+          "en": "5,000 pcs",
+          "zh": "5000个",
+          "id": "5.000 pcs"
+        }
+      }
+    ],
+    "description": {
+      "en": "Premium surgical blades for precision incisions. Compatible with standard surgical handles.",
+      "zh": "优质手术刀片，精准切割。兼容标准手术刀柄。",
+      "id": "Pisau bedah premium untuk sayatan presisi."
+    },
+    "applications": {
+      "en": [
+        "Surgery",
+        "General Surgery",
+        "Operating Room"
+      ],
+      "zh": [
+        "手术",
+        "普外科",
+        "手术室"
+      ],
+      "id": [
+        "Bedah",
+        "Bedah Umum",
+        "Ruang Operasi"
+      ]
+    }
+  },
+  {
+    "id": "iv-cannula",
+    "slug": "iv-cannula",
+    "category": "catheter",
+    "name": {
+      "en": "I.V. Cannula",
+      "zh": "留置针",
+      "id": "Kanula IV"
+    },
+    "model": "NL-IC01",
+    "features": {
+      "en": [
+        "FEP indwelling tube",
+        "PC tube holder",
+        "Medical polymer materials",
+        "Sterile",
+        "Single use"
+      ],
+      "zh": [
+        "FEP留置管",
+        "PC管座",
+        "医用高分子材料",
+        "灭菌",
+        "一次性使用"
+      ],
+      "id": [
+        "Tabung FEP",
+        "Penahan PC",
+        "Bahan polimer medis",
+        "Steril",
+        "Sekali pakai"
+      ]
+    },
+    "specs": [
+      {
+        "key": "Material",
+        "value": {
+          "en": "FEP / PC / ABS",
+          "zh": "FEP/PC/ABS",
+          "id": "FEP / PC / ABS"
+        }
+      },
+      {
+        "key": "Packaging",
+        "value": {
+          "en": "50 pcs/box",
+          "zh": "50个/箱",
+          "id": "50 pcs/kotak"
+        }
+      },
+      {
+        "key": "MOQ",
+        "value": {
+          "en": "2,000 pcs",
+          "zh": "2000个",
+          "id": "2.000 pcs"
+        }
+      },
+      {
+        "key": "Certification",
+        "value": {
+          "en": "ISO13485",
+          "zh": "ISO13485",
+          "id": "ISO13485"
+        }
+      }
+    ],
+    "description": {
+      "en": "Intravenous cannula for vascular access. FEP material for patient comfort and reduced complications.",
+      "zh": "静脉留置针用于血管通路。FEP材质，患者舒适度高，并发症少。",
+      "id": "Kanula IV untuk akses vaskular."
+    },
+    "applications": {
+      "en": [
+        "IV Therapy",
+        "Surgery",
+        "Emergency"
+      ],
+      "zh": [
+        "静脉治疗",
+        "手术",
+        "急诊"
+      ],
+      "id": [
+        "Terapi IV",
+        "Bedah",
+        "Darurat"
+      ]
+    }
+  },
+  {
+    "id": "aperture-drape",
+    "slug": "aperture-drape",
+    "category": "surgical",
+    "name": {
+      "en": "Aperture Drape / Adhesive Aperture Drape",
+      "zh": "洞巾/自粘洞巾",
+      "id": "Drape Berlubang"
+    },
+    "model": "NL-AD01",
+    "features": {
+      "en": [
+        "Aperture for procedural access",
+        "Adhesive version available",
+        "Sterile field protection",
+        "Multiple sizes available",
+        "Disposable single use"
+      ],
+      "zh": [
+        "开口用于操作通路",
+        "自粘版本可选",
+        "无菌区域保护",
+        "多种尺寸可选",
+        "一次性使用"
+      ],
+      "id": [
+        "Lubang untuk akses prosedural",
+        "Versi perekat tersedia",
+        "Perlindungan area steril",
+        "Beberapa ukuran",
+        "Sekali pakai"
+      ]
+    },
+    "specs": [
+      {
+        "key": "Code",
+        "value": {
+          "en": "CD-081-1 (Non-adhesive) / CD-081-2 (Adhesive)",
+          "zh": "CD-081-1(非自粘)/CD-081-2(自粘)",
+          "id": "CD-081-1 / CD-081-2"
+        }
+      },
+      {
+        "key": "Sizes",
+        "value": {
+          "en": "CD-081-1: 50x60cm, aperture 6x8cm\nCD-081-2: 120x150cm (adhesive)",
+          "zh": "CD-081-1: 50x60cm开口6x8cm\nCD-081-2: 120x150cm(自粘)",
+          "id": "CD-081-1: 50x60cm\nCD-081-2: 120x150cm"
+        }
+      },
+      {
+        "key": "Material",
+        "value": {
+          "en": "Non-woven fabric",
+          "zh": "无纺布",
+          "id": "Non-woven"
+        }
+      },
+      {
+        "key": "Customization",
+        "value": {
+          "en": "Size & aperture customizable",
+          "zh": "尺寸和开口可定制",
+          "id": "Ukuran dapat disesuaikan"
+        }
+      },
+      {
+        "key": "Certification",
+        "value": {
+          "en": "CE MDR, ISO13485",
+          "zh": "CE MDR、ISO13485",
+          "id": "CE MDR, ISO13485"
+        }
+      }
+    ],
+    "description": {
+      "en": "Aperture drape for sterile field access during procedures. Adhesive version available for secure fixation.",
+      "zh": "洞巾用于手术中的无菌区域开口。自粘版本可牢固固定。",
+      "id": "Drape berlubang untuk akses area steril selama prosedur."
+    },
+    "applications": {
+      "en": [
+        "Surgery",
+        "Minor Procedures",
+        "Dressing"
+      ],
+      "zh": [
+        "手术",
+        "小手术",
+        "换药"
+      ],
+      "id": [
+        "Bedah",
+        "Prosedur Minor",
+        "Perawatan Luka"
+      ]
+    }
+  },
+  {
+    "id": "extremity-pack",
+    "slug": "extremity-pack",
+    "category": "surgical",
+    "name": {
+      "en": "Extremity Pack",
+      "zh": "四肢包",
+      "id": "Paket Ekstremitas"
+    },
+    "model": "NL-EP01",
+    "features": {
+      "en": [
+        "1x Extremity drape 230x300cm with elastic aperture",
+        "1x Mayo stand cover 78x145cm",
+        "1x Instrument table cover 150x190cm",
+        "4x Hand towels",
+        "2x OP-tape 9x50cm",
+        "1x Adhesive drape 75x90cm",
+        "All customizable"
+      ],
+      "zh": [
+        "1x四肢手术单230x300cm弹性开口",
+        "1x迈奥式台套78x145cm",
+        "1x器械台罩150x190cm",
+        "4x擦手巾",
+        "2x手术胶带9x50cm",
+        "1x自粘铺单75x90cm",
+        "所有可定制"
+      ],
+      "id": [
+        "1x Drape ekstremitas 230x300cm",
+        "1x Sarung Mayo 78x145cm",
+        "1x Penutup meja 150x190cm",
+        "4x Handuk",
+        "2x OP-tape 9x50cm",
+        "1x Drape perekat 75x90cm",
+        "Semua dapat disesuaikan"
+      ]
+    },
+    "specs": [
+      {
+        "key": "Code",
+        "value": {
+          "en": "CD-090",
+          "zh": "CD-090",
+          "id": "CD-090"
+        }
+      },
+      {
+        "key": "Aperture",
+        "value": {
+          "en": "Elastic 7cm with absorbent patch 50x100cm",
+          "zh": "弹性7cm+吸水垫50x100cm",
+          "id": "Elastis 7cm + bantalan 50x100cm"
+        }
+      },
+      {
+        "key": "Packaging",
+        "value": {
+          "en": "5 sets/box",
+          "zh": "5套/箱",
+          "id": "5 set/kotak"
+        }
+      },
+      {
+        "key": "MOQ",
+        "value": {
+          "en": "100 sets",
+          "zh": "100套",
+          "id": "100 set"
+        }
+      },
+      {
+        "key": "Certification",
+        "value": {
+          "en": "CE MDR, ISO13485",
+          "zh": "CE MDR、ISO13485",
+          "id": "CE MDR, ISO13485"
+        }
+      }
+    ],
+    "description": {
+      "en": "Extremity surgical pack for limb surgeries. Elastic aperture with absorbent patch for fluid management.",
+      "zh": "四肢手术包，弹性开口配合吸水垫管理术中液体。",
+      "id": "Paket bedah ekstremitas untuk operasi anggota gerak."
+    },
+    "applications": {
+      "en": [
+        "Orthopedics",
+        "Limb Surgery",
+        "Plastic Surgery"
+      ],
+      "zh": [
+        "骨科",
+        "四肢手术",
+        "整形外科"
+      ],
+      "id": [
+        "Ortopedi",
+        "Operasi Ekstremitas",
+        "Bedah Plastik"
+      ]
+    }
+  },
+  {
+    "id": "disposable-syringe",
+    "slug": "disposable-syringe",
+    "category": "catheter",
+    "name": {
+      "en": "Disposable Syringe",
+      "zh": "一次性注射器",
+      "id": "Alat Suntik Sekali Pakai"
+    },
+    "model": "NL-DS01",
+    "features": {
+      "en": [
+        "Medical-grade PP",
+        "Luer Slip / Luer Lock options",
+        "Sterile",
+        "Non-toxic",
+        "Single use"
+      ],
+      "zh": [
+        "医用级PP",
+        "Luer Slip/Luer Lock可选",
+        "灭菌",
+        "无毒",
+        "一次性使用"
+      ],
+      "id": [
+        "PP medis",
+        "Opsi Luer Slip / Luer Lock",
+        "Steril",
+        "Non-toksik",
+        "Sekali pakai"
+      ]
+    },
+    "specs": [
+      {
+        "key": "Material",
+        "value": {
+          "en": "Medical-grade PP",
+          "zh": "医用级PP",
+          "id": "PP medis"
+        }
+      },
+      {
+        "key": "Type",
+        "value": {
+          "en": "Luer Slip / Luer Lock",
+          "zh": "Luer Slip/Luer Lock",
+          "id": "Luer Slip / Luer Lock"
+        }
+      },
+      {
+        "key": "Packaging",
+        "value": {
+          "en": "PE / Blister + Box + Carton",
+          "zh": "PE/吸塑+盒+箱",
+          "id": "PE / Blister + Kotak + Karton"
+        }
+      },
+      {
+        "key": "MOQ",
+        "value": {
+          "en": "10,000 pcs",
+          "zh": "10000个",
+          "id": "10.000 pcs"
+        }
+      },
+      {
+        "key": "Certification",
+        "value": {
+          "en": "ISO13485",
+          "zh": "ISO13485",
+          "id": "ISO13485"
+        }
+      }
+    ],
+    "description": {
+      "en": "Disposable syringe for medical injections. Luer Slip and Luer Lock options available.",
+      "zh": "一次性注射器用于医疗注射。Luer Slip和Luer Lock可选。",
+      "id": "Alat suntik sekali pakai untuk injeksi medis."
+    },
+    "applications": {
+      "en": [
+        "Injection",
+        "IV Therapy",
+        "Vaccination"
+      ],
+      "zh": [
+        "注射",
+        "静脉治疗",
+        "疫苗接种"
+      ],
+      "id": [
+        "Injeksi",
+        "Terapi IV",
+        "Vaksinasi"
+      ]
+    }
+  },
+  {
+    "id": "infusion-set",
+    "slug": "infusion-set",
+    "category": "catheter",
+    "name": {
+      "en": "Disposable Infusion Set",
+      "zh": "输液器",
+      "id": "Set Infus Sekali Pakai"
+    },
+    "model": "NL-IS01",
+    "features": {
+      "en": [
+        "Medical-grade materials",
+        "Air inlet / without air inlet options",
+        "Plastic / Steel spike",
+        "Blow mold / Injection mold drip chamber",
+        "Double spike type available",
+        "Customizable"
+      ],
+      "zh": [
+        "医用级材料",
+        "带/不带进气口",
+        "塑料/钢制穿刺器",
+        "吹塑/注塑滴斗",
+        "双叉型可选",
+        "可定制"
+      ],
+      "id": [
+        "Bahan medis",
+        "Opsi inlet udara",
+        "Spike plastik/baja",
+        "Tetesan cetak",
+        "Tipe double spike",
+        "Dapat disesuaikan"
+      ]
+    },
+    "specs": [
+      {
+        "key": "Material",
+        "value": {
+          "en": "Medical-grade polymer",
+          "zh": "医用高分子材料",
+          "id": "Polimer medis"
+        }
+      },
+      {
+        "key": "Options",
+        "value": {
+          "en": "Air inlet / No air inlet; Plastic spike / Steel spike",
+          "zh": "带/不带进气口；塑料/钢制穿刺器",
+          "id": "Inlet udara; Spike plastik/baja"
+        }
+      },
+      {
+        "key": "Type",
+        "value": {
+          "en": "Single / Double spike",
+          "zh": "单叉/双叉",
+          "id": "Spike tunggal/ganda"
+        }
+      },
+      {
+        "key": "Packaging",
+        "value": {
+          "en": "50 pcs/box",
+          "zh": "50个/箱",
+          "id": "50 pcs/kotak"
+        }
+      },
+      {
+        "key": "MOQ",
+        "value": {
+          "en": "5,000 pcs",
+          "zh": "5000个",
+          "id": "5.000 pcs"
+        }
+      },
+      {
+        "key": "Certification",
+        "value": {
+          "en": "ISO13485",
+          "zh": "ISO13485",
+          "id": "ISO13485"
+        }
+      }
+    ],
+    "description": {
+      "en": "Disposable infusion set for IV fluid administration. Multiple configurations available for different clinical needs.",
+      "zh": "一次性输液器用于静脉输液。多种配置满足不同临床需求。",
+      "id": "Set infus sekali pakai untuk pemberian cairan IV."
+    },
+    "applications": {
+      "en": [
+        "IV Therapy",
+        "Surgery",
+        "Emergency"
+      ],
+      "zh": [
+        "静脉治疗",
+        "手术",
+        "急诊"
+      ],
+      "id": [
+        "Terapi IV",
+        "Bedah",
+        "Darurat"
+      ]
     }
   }
 ]

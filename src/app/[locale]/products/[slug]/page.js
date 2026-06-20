@@ -24,7 +24,7 @@ export default async function ProductDetailPage({ params: { locale, slug } }) {
   const features = product.features[locale] || product.features.en;
   const description = product.description[locale] || product.description.en;
   const applications = product.applications[locale] || product.applications.en;
-  const icons = { respiratory: '🫁', catheter: '🩺', protection: '🥼' };
+  const icons = { respiratory: '🫁', catheter: '🩺', protection: '🥼', surgical: '🏥' };
   const waMsg = encodeURIComponent('Hi Nova Link China,\nI am interested in: ' + name + ' (' + product.model + ')\nCompany: \nQuantity: \nMessage: ');
 
   return (
@@ -76,7 +76,7 @@ export default async function ProductDetailPage({ params: { locale, slug } }) {
               <Link href={'/contact?product=' + product.slug} className="inline-flex items-center px-6 py-3 bg-[#00a651] hover:bg-[#008c44] text-white rounded-lg font-semibold transition-colors">
                 📩 {t('send_inquiry')}
               </Link>
-              <a href={'https://wa.me/861234567890?text=' + waMsg} target="_blank" rel="noopener noreferrer" className="inline-flex items-center px-6 py-3 bg-[#25D366] hover:bg-[#1ebe5c] text-white rounded-lg font-semibold transition-colors">
+              <a href={'https://wa.me/8615038302121?text=' + waMsg} target="_blank" rel="noopener noreferrer" className="inline-flex items-center px-6 py-3 bg-[#25D366] hover:bg-[#1ebe5c] text-white rounded-lg font-semibold transition-colors">
                 💬 {t('whatsapp')}
               </a>
             </div>

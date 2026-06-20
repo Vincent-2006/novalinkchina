@@ -42,7 +42,7 @@ export default function Header({ locale }) {
     <header className="bg-white shadow-sm sticky top-0 z-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="hidden md:flex justify-end items-center py-1 border-b border-gray-100">
-          <span className="text-sm text-gray-500 mr-4">📞 +86 371-xxxxxxx</span>
+          <span className="text-sm text-gray-500 mr-4">📞 +86 371-6685 1110</span>
         </div>
         <div className="flex items-center justify-between h-16 md:h-20">
           <Link href="/" className="flex items-center space-x-2">

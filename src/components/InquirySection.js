@@ -9,7 +9,8 @@ export default function InquirySection({ locale, productName, productSlug }) {
     name: '', company: '', email: '', phone: '', quantity: '', message: ''
   });
 
-  const waNumber = '861234567890';
+  const BRAIN_API = 'https://120.79.137.134:8010';
+  const waNumber = '8615038302121';
   const waMessage = encodeURIComponent(
     'Hi Nova Link China,' +
     '\nI am interested in: ' + (productName || 'your products') +
@@ -19,6 +20,28 @@ export default function InquirySection({ locale, productName, productSlug }) {
     '\nQuantity: ' + form.quantity +
     '\nMessage: ' + form.message
   );
+
+  const syncToBrain = async () => {
+    try {
+      await fetch('http://120.79.137.134:8010/api/inquiry', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          name: form.name,
+          company: form.company,
+          email: form.email,
+          phone: form.phone,
+          quantity: form.quantity,
+          message: form.message,
+          product_name: productName || '',
+          product_slug: productSlug || '',
+          source: 'novalinkchina.com'
+        })
+      });
+    } catch(e) {
+      console.log('Brain sync:', e.message);
+    }
+  };
 
   return (
     <div className="bg-gray-50 rounded-2xl p-8 md:p-10">
@@ -42,12 +65,13 @@ export default function InquirySection({ locale, productName, productSlug }) {
       <textarea placeholder={t('form.message')} value={form.message} onChange={e => setForm({ ...form, message: e.target.value })}
         className="w-full px-4 py-3 rounded-lg border border-gray-200 focus:border-[#00a651] focus:ring-1 focus:ring-[#00a651] outline-none text-sm mt-5 h-24" />
       <div className="flex flex-wrap gap-3 mt-6">
-        <button onClick={() => window.open('https://wa.me/' + waNumber + '?text=' + waMessage, '_blank')}
+        <button onClick={() => { syncToBrain(); window.open('https://wa.me/' + waNumber + '?text=' + waMessage, '_blank'); }}
           className="inline-flex items-center px-6 py-3 bg-[#25D366] hover:bg-[#1ebe5c] text-white rounded-lg font-semibold transition-colors">
           💬 {t('form.submit_whatsapp')}
         </button>
         <button onClick={() => {
-          const mailto = 'mailto:info@novalinkchina.com?subject=Inquiry: ' + (productName || '') +
+          syncToBrain();
+          const mailto = 'mailto:jdswj2006@gmail.com?subject=Inquiry: ' + (productName || '') +
             '&body=Name: ' + form.name + '%0ACompany: ' + form.company + '%0AEmail: ' + form.email +
             '%0APhone: ' + form.phone + '%0AQuantity: ' + form.quantity + '%0AMessage: ' + form.message;
           window.location.href = mailto;
