@@ -1,73 +1,74 @@
 {
   "home": {
     "hero": {
-      "title": "您值得信赖的中国采购伙伴",
-      "subtitle": "连接全球买家与中国优质医疗器械制造商。",
+      "title": "长东医疗 — 印尼独家代理",
+      "subtitle": "盈适葆是长东（Evereast）医疗的印尼独家代理商。我们将中国优质的麻醉、呼吸和手术类医疗器械带给印尼医疗市场。",
       "cta_quote": "获取报价",
       "cta_products": "浏览产品",
-      "trust_1": "CE及FDA认证",
-      "trust_2": "工厂直供价格",
-      "trust_3": "全球物流配送"
+      "trust_1": "CE MDR认证（SGS发证）",
+      "trust_2": "长东工厂直供",
+      "trust_3": "专注印尼市场"
     },
     "stats": {
-      "title": "盈联中国数据",
-      "products": "产品数量",
-      "products_val": "500+",
-      "suppliers": "合作工厂",
-      "suppliers_val": "50+",
+      "title": "长东医疗数据",
+      "products": "产品品类",
+      "products_val": "38+",
+      "suppliers": "工厂面积",
+      "suppliers_val": "15万m²",
       "countries": "出口国家",
-      "countries_val": "30+",
-      "experience": "行业经验",
-      "experience_val": "15+年"
+      "countries_val": "60+",
+      "experience": "长东成立",
+      "experience_val": "20+年"
     },
     "why_us": {
-      "title": "为什么选择盈联中国",
-      "subtitle": "我们为何是您理想的采购伙伴",
-      "factory": {
-        "title": "工厂直供",
-        "desc": "与中国顶级工厂直接合作，去中间商，价格更优。"
+      "title": "为什么选择盈适葆？",
+      "subtitle": "长东医疗印尼独家代理",
+      "exclusive": {
+        "title": "独家代理",
+        "desc": "我们是长东（Evereast）医疗正式授权的印尼独家代理商。工厂直供，没有中间商。"
       },
       "quality": {
-        "title": "品质保障",
-        "desc": "所有产品符合国际标准：CE MDR、FDA、ISO13485认证。"
+        "title": "CE MDR认证",
+        "desc": "长东产品通过CE MDR（SGS发证）和ISO13485认证。所有产品符合国际医疗器械质量标准。"
       },
-      "communication": {
-        "title": "沟通无障碍",
-        "desc": "我们的团队可用中文、英文、印尼文直接沟通。"
+      "indonesia": {
+        "title": "专注印尼",
+        "desc": "我们熟悉印尼注册体系——NIE、IDAK、CDAKB、e-Katalog，帮你解决合规问题。"
       },
-      "certification": {
-        "title": "资质齐全",
-        "desc": "我们处理所有合规文件，确保通关顺利。"
+      "product_range": {
+        "title": "品类齐全",
+        "desc": "38+品类覆盖麻醉回路、面罩、气管插管、导尿管、手术包等全线产品。"
       },
       "logistics": {
-        "title": "全球物流",
-        "desc": "从FOB报价到门到门配送，灵活物流方案。"
+        "title": "物流灵活",
+        "desc": "从FOB青岛到门到门配送，为印尼买家定制物流方案。"
       },
       "moq": {
         "title": "起订灵活",
-        "desc": "有竞争力的最小起订量，从小单到大单均可。"
+        "desc": "有竞争力的最小起订量，从小单试水到大批量渐进。"
       }
     },
     "certificates": {
-      "title": "资质与合规",
-      "subtitle": "所有产品均在严格的质量管理体系下生产"
+      "title": "资质认证",
+      "subtitle": "长东医疗持有有效的国际认证"
     },
     "testimonials": {
-      "title": "全球客户信赖之选"
+      "title": "全球覆盖"
     },
     "cta": {
-      "title": "准备从中国采购了吗？",
+      "title": "准备采购长东产品？",
       "subtitle": "告诉我们您的需求，我们将在24小时内回复。",
       "btn_inquiry": "发送询盘",
       "btn_whatsapp": "WhatsApp咨询"
     }
   },
   "products": {
-    "title": "我们的产品",
-    "subtitle": "面向全球买家的优质中国制造产品",
+    "title": "长东医疗产品目录",
+    "subtitle": "长东（Evereast）医疗出品——值得信赖的中国医疗器械制造商（成立于2004年）",
     "category_all": "全部",
     "category_respiratory": "呼吸麻醉类",
     "category_catheter": "导管类",
+    "category_surgical": "手术包及铺单",
     "category_protection": "防护用品",
     "download_spec": "下载规格表",
     "send_inquiry": "发送询盘",
@@ -76,34 +77,36 @@
     "applications": "适用范围",
     "specifications": "规格参数",
     "related": "相关产品",
-    "back": "← 返回产品列表",
-    "no_image": "产品图片"
+    "back": "返回产品列表",
+    "no_image": "产品图片",
+    "changdong_note": "所有产品由长东（Evereast）医疗制造——ISO13485、CE MDR（SGS发证）、FDA认证"
   },
   "about": {
-    "title": "关于盈联中国",
-    "subtitle": "连接您与中国优质制造商的桥梁",
-    "intro": "盈联中国是一家总部位于郑州的贸易公司，致力于连接全球买家与中国优质医疗器械制造商。",
-    "mission": {
-      "title": "我们的使命",
-      "text": "通过提供透明的价格、可靠的品质和跨语言跨文化的无缝沟通，简化从中国的全球采购流程。"
+    "title": "关于盈适葆",
+    "subtitle": "长东医疗 — 印尼独家代理",
+    "intro": "盈适葆（郑州盈适葆商贸有限公司）是长东（Evereast）医疗正式授权的印尼独家代理商。我们位于郑州——中国医疗器械制造核心区域——专注于将长东的优质医疗产品带给印尼医疗机构。",
+    "changdong": {
+      "title": "关于长东医疗",
+      "text": "长东医疗是中国领先的医疗器械制造商，工厂位于长垣，占地面积15万平方米。公司成立于2004年，持有ISO13485、CE MDR（SGS发证）和FDA认证。产品出口60多个国家，包括英国（通过NHS审核）、欧盟和中东。长东医疗位列商务部出口白名单第51位。"
     },
     "advantage": {
       "title": "我们的优势",
-      "text": "扎根郑州——中国制造业核心区域，我们与认证工厂建立了长期直接合作关系。每一件产品在发货前都经过质量和合规验证。"
-    }
+      "text": "作为印尼独家代理商，我们提供工厂直供价格、完整的注册支持（NIE、IDAK、CDAKB）、以及中文/英文/印尼文三语无缝沟通。产品涵盖38+品类，均持有CE MDR认证——在印尼市场属于真正的蓝海。"
+    },
+    "exclusive_note": "我们是长东医疗正式授权的印尼独家代理商。我们代表工厂，不是中间商。"
   },
   "certificates": {
     "title": "资质认证",
-    "subtitle": "质量和合规是我们一切工作的核心",
-    "iso": "ISO 13485:2016 — 医疗器械质量管理体系",
-    "ce": "CE MDR (EU 2017/745) — 欧盟市场合规",
-    "fda": "FDA 510(k) — 美国市场准入",
-    "cfs": "自由销售证书 — 用于国际注册",
-    "note": "我们仅与持有有效ISO13485认证及相关产品注册的工厂合作。联系我们可以获取具体的证书复印件。"
+    "subtitle": "长东医疗持有的国际认证",
+    "iso": "ISO 13485:2016 — 医疗器械质量管理体系（2020年至今）",
+    "ce": "CE MDR (EU 2017/745) — 欧盟市场合规，SGS发证（Stage 1已完成）",
+    "fda": "FDA 510(k) — 部分产品美国市场准入",
+    "cfs": "自由销售证书 — 中国NMPA出具，用于国际注册",
+    "note": "作为授权独家代理商，我们可以提供证书复印件。请联系索取具体产品注册文件。"
   },
   "contact": {
     "title": "联系我们",
-    "subtitle": "告诉我们您的采购需求，我们将在24小时内回复",
+    "subtitle": "对长东产品感兴趣？留言给我们，24小时内回复。",
     "form": {
       "name": "姓名 *",
       "company": "公司名称 *",
@@ -121,11 +124,11 @@
       "address": "中国河南省郑州市郑东新区",
       "phone": "+86 371-6685 1110",
       "email": "jdswj2006@gmail.com",
-      "hours": "周一至周五 9:00 - 18:00"
+      "hours": "周一至周五 9:00 - 18:00（北京时间）"
     }
   },
   "footer": {
-    "tagline": "您值得信赖的中国采购伙伴，连接全球买家与中国优质制造商。",
+    "tagline": "长东医疗印尼独家代理。",
     "products": "产品",
     "company": "公司",
     "about": "关于我们",

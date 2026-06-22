@@ -68,7 +68,7 @@ export default async function HomePage({ params: { locale } }) {
           <h2 className="text-3xl md:text-4xl font-bold text-center mb-4 text-[#1a365d]">{t('why_us.title')}</h2>
           <p className="text-lg text-gray-600 text-center max-w-2xl mx-auto mb-12">{t('why_us.subtitle')}</p>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mt-8">
-            {['factory', 'quality', 'communication', 'certification', 'logistics', 'moq'].map((key) => (
+            {['exclusive', 'quality', 'indonesia', 'product_range', 'logistics', 'moq'].map((key) => (
               <div key={key} className="p-6 rounded-xl border border-gray-100 hover:shadow-md transition-shadow">
                 <h3 className="text-lg font-semibold text-[#1a365d] mb-3">{t('why_us.' + key + '.title')}</h3>
                 <p className="text-gray-600 text-sm leading-relaxed">{t('why_us.' + key + '.desc')}</p>

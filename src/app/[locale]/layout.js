@@ -11,7 +11,7 @@ export function generateStaticParams() {
 export async function generateMetadata({ params: { locale } }) {
   const t = await getTranslations({ locale, namespace: 'home.hero' });
   return {
-    title: 'Nova Link China — Your Trusted Sourcing Partner',
+    title: '盈适葆 Yingshibao — Changdong Medical Indonesia Exclusive Distributor',
     description: t('subtitle'),
   };
 }

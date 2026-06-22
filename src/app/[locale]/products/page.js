@@ -26,6 +26,7 @@ export default async function ProductsPage({ params: { locale } }) {
             <ProductCard key={product.id} product={product} locale={locale} />
           ))}
         </div>
+        <p className="text-sm text-gray-400 mt-10 text-center">{t('changdong_note')}</p>
       </div>
     </div>
   );

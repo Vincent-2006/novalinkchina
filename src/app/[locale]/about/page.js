@@ -19,15 +19,19 @@ export default async function AboutPage({ params: { locale } }) {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         <div className="prose max-w-none">
           <p className="text-lg text-gray-600 leading-relaxed mb-8">{t('intro')}</p>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mt-12">
-            <div className="bg-[#eef2ff] rounded-2xl p-8">
-              <h2 className="text-xl font-bold text-[#1a365d] mb-4">{t('mission.title')}</h2>
-              <p className="text-gray-600 leading-relaxed">{t('mission.text')}</p>
-            </div>
-            <div className="bg-green-50 rounded-2xl p-8">
-              <h2 className="text-xl font-bold text-[#1a365d] mb-4">{t('advantage.title')}</h2>
-              <p className="text-gray-600 leading-relaxed">{t('advantage.text')}</p>
-            </div>
+
+          <div className="bg-[#eef2ff] rounded-2xl p-8 mb-8">
+            <h2 className="text-xl font-bold text-[#1a365d] mb-4">{t('changdong.title')}</h2>
+            <p className="text-gray-600 leading-relaxed">{t('changdong.text')}</p>
+          </div>
+
+          <div className="bg-green-50 rounded-2xl p-8 mb-8">
+            <h2 className="text-xl font-bold text-[#1a365d] mb-4">{t('advantage.title')}</h2>
+            <p className="text-gray-600 leading-relaxed">{t('advantage.text')}</p>
+          </div>
+
+          <div className="bg-[#1a365d] text-white rounded-2xl p-8 text-center">
+            <p className="text-lg font-semibold">{t('exclusive_note')}</p>
           </div>
         </div>
       </div>

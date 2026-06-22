@@ -46,13 +46,12 @@ export default function Header({ locale }) {
         </div>
         <div className="flex items-center justify-between h-16 md:h-20">
           <Link href="/" className="flex items-center space-x-2">
-            <div className="w-10 h-10 rounded-full bg-[#1a365d] flex items-center justify-center">
-              <span className="text-white font-bold text-lg">N</span>
+            <div className="w-10 h-10 rounded-full bg-[#00a651] flex items-center justify-center">
+              <span className="text-white font-bold text-lg">Y</span>
             </div>
             <div>
-              <span className="font-bold text-xl text-[#1a365d]">Nova</span>
-              <span className="font-bold text-xl text-[#00a651]">Link</span>
-              <span className="text-sm text-gray-400 ml-1">China</span>
+              <span className="font-bold text-xl text-[#1a365d]">盈适葆</span>
+              <span className="text-sm text-gray-400 ml-1">Yingshibao</span>
             </div>
           </Link>
           <nav className="hidden lg:flex items-center space-x-1">

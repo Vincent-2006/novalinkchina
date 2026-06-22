@@ -2,21 +2,21 @@
 
 const footerContent = {
   en: {
-    tagline: 'Your trusted sourcing partner connecting global buyers with premium Chinese manufacturers.',
+    tagline: 'Authorized exclusive distributor of Changdong (Evereast) Medical for Indonesia. Premium medical devices from China\'s leading manufacturer.',
     products: 'Products', company: 'Company',
     about: 'About Us', contact: 'Contact', certificates: 'Certificates',
     inquiry: 'Send Inquiry', rights: 'All rights reserved.',
     address: 'Zhengdong New District, Zhengzhou, Henan, China',
   },
   zh: {
-    tagline: '您值得信赖的中国采购伙伴，连接全球买家与中国优质制造商。',
+    tagline: '长东医疗印尼独家代理。将中国领先的医疗器械带给印尼市场。',
     products: '产品', company: '公司',
     about: '关于我们', contact: '联系我们', certificates: '资质证书',
     inquiry: '发送询盘', rights: '保留所有权利。',
     address: '中国河南省郑州市郑东新区',
   },
   id: {
-    tagline: 'Mitra sourcing tepercaya Anda yang menghubungkan pembeli global dengan produsen China berkualitas.',
+    tagline: 'Distributor eksklusif Changdong (Evereast) Medical untuk Indonesia. Perangkat medis premium dari produsen terkemuka China.',
     products: 'Produk', company: 'Perusahaan',
     about: 'Tentang Kami', contact: 'Kontak', certificates: 'Sertifikat',
     inquiry: 'Kirim Inquiry', rights: 'Hak cipta dilindungi.',
@@ -33,12 +33,11 @@ export default function Footer({ locale }) {
           <div className="lg:col-span-1">
             <div className="flex items-center space-x-2 mb-4">
               <div className="w-10 h-10 rounded-full bg-[#00a651] flex items-center justify-center">
-                <span className="text-white font-bold text-lg">N</span>
+                <span className="text-white font-bold text-lg">Y</span>
               </div>
               <div>
-                <span className="font-bold text-xl">Nova</span>
-                <span className="font-bold text-xl text-[#00a651]">Link</span>
-                <span className="text-sm text-gray-400 ml-1">China</span>
+                <span className="font-bold text-xl">盈适葆</span>
+                <span className="text-sm text-gray-400 ml-1">Yingshibao</span>
               </div>
             </div>
             <p className="text-gray-300 text-sm leading-relaxed">{t.tagline}</p>
@@ -75,7 +74,7 @@ export default function Footer({ locale }) {
           </div>
         </div>
         <div className="border-t border-gray-600 mt-10 pt-8 flex flex-col md:flex-row justify-between items-center">
-          <p className="text-gray-400 text-sm">&copy; 2024 Nova Link China. {t.rights}</p>
+          <p className="text-gray-400 text-sm">&copy; 2026 盈适葆 Yingshibao. {t.rights}</p>
           <Link href="/contact" className="mt-4 md:mt-0 inline-flex items-center px-5 py-2 bg-[#00a651] hover:bg-[#008c44] text-white text-sm rounded-lg font-medium transition-colors">
             💬 {t.inquiry}
           </Link>
