@@ -5,3 +5,4 @@ out/
 .env*.local
 
 .vercel
+tmp_infoalkes_latest.json

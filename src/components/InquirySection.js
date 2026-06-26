@@ -9,7 +9,6 @@ export default function InquirySection({ locale, productName, productSlug }) {
     name: '', company: '', email: '', phone: '', quantity: '', message: ''
   });
 
-  const BRAIN_API = 'https://120.79.137.134:8010';
   const waNumber = '8615038302121';
   const waMessage = encodeURIComponent(
     'Hi Nova Link China,' +
@@ -23,7 +22,7 @@ export default function InquirySection({ locale, productName, productSlug }) {
 
   const syncToBrain = async () => {
     try {
-      await fetch('http://120.79.137.134:8010/api/inquiry', {
+      await fetch('/api/inquiries', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
@@ -39,7 +38,7 @@ export default function InquirySection({ locale, productName, productSlug }) {
         })
       });
     } catch(e) {
-      console.log('Brain sync:', e.message);
+      console.log('Save inquiry:', e.message);
     }
   };
 
