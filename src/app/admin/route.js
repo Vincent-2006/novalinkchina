@@ -23,33 +23,41 @@ function readJSON(file) {
 }
 
 async function saveJSON(file, data) {
-  const filePath = path.join(process.cwd(), 'src', 'data', file);
+  // Only save to GitHub (Vercel filesystem is read-only)
+  if (!GITHUB_TOKEN) return;
+
   const content = JSON.stringify(data, null, 2);
+  const fullPath = `src/data/${file}`;
 
-  // Write locally
-  fs.writeFileSync(filePath, content);
+  try {
+    const getRes = await fetch(
+      `https://api.github.com/repos/Vincent-2006/novalinkchina/contents/${fullPath}`,
+      { headers: { Authorization: `Bearer ${GITHUB_TOKEN}` } }
+    );
+    const sha = getRes.ok ? (await getRes.json()).sha : null;
 
-  // Push to GitHub if token exists
-  if (GITHUB_TOKEN) {
-    try {
-      const fullPath = `src/data/${file}`;
-      const getRes = await fetch(
-        `https://api.github.com/repos/Vincent-2006/novalinkchina/contents/${fullPath}`,
-        { headers: { Authorization: `Bearer ${GITHUB_TOKEN}` } }
-      );
-      const sha = getRes.ok ? (await getRes.json()).sha : null;
+    const body = {
+      message: `更新 ${file} [via Admin]`,
+      content: Buffer.from(content).toString('base64'),
+      branch: 'master',
+    };
+    if (sha) body.sha = sha;
 
-      const body = { message: `更新 ${file} [via Admin]`, content: Buffer.from(content).toString('base64'), branch: 'master' };
-      if (sha) body.sha = sha;
-
-      await fetch(`https://api.github.com/repos/Vincent-2006/novalinkchina/contents/${fullPath}`, {
+    const res = await fetch(
+      `https://api.github.com/repos/Vincent-2006/novalinkchina/contents/${fullPath}`,
+      {
         method: 'PUT',
         headers: { Authorization: `Bearer ${GITHUB_TOKEN}`, 'Content-Type': 'application/json' },
         body: JSON.stringify(body),
-      });
-    } catch (e) {
-      console.error('GitHub push failed:', e.message);
+      }
+    );
+
+    if (!res.ok) {
+      const err = await res.json();
+      throw new Error(err.message || 'GitHub API error');
     }
+  } catch (e) {
+    throw new Error('保存到 GitHub 失败: ' + e.message);
   }
 }
 
@@ -394,7 +402,11 @@ export async function POST(request) {
       msg = '✅ 产品已保存！GitHub 部署中...';
     }
 
-    await saveJSON('products.json', products);
+    try {
+      await saveJSON('products.json', products);
+    } catch (e) {
+      msg = '❌ ' + e.message;
+    }
     const inquiries = readJSON('inquiries.json');
     return new Response(ADMIN_PAGE(products, inquiries, settings, msg), {
       headers: { 'Content-Type': 'text/html; charset=utf-8' },
@@ -406,9 +418,13 @@ export async function POST(request) {
     for (const [key, val] of formData.entries()) {
       if (key !== 'action') settings[key] = val;
     }
-    await saveJSON('settings.json', settings);
+    try {
+      await saveJSON('settings.json', settings);
+      msg = '✅ 设置已保存！';
+    } catch (e) {
+      msg = '❌ ' + e.message;
+    }
     const inquiries = readJSON('inquiries.json');
-    return new Response(ADMIN_PAGE(products, inquiries, settings, '✅ 设置已保存！'), {
       headers: { 'Content-Type': 'text/html; charset=utf-8' },
     });
   }
