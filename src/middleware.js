@@ -1,17 +1,21 @@
 import createMiddleware from 'next-intl/middleware';
 import { NextResponse } from 'next/server';
 
+const locales = ['en', 'zh', 'id'];
+const defaultLocale = 'en';
+
+// Create the i18n middleware
 const intlMiddleware = createMiddleware({
-  locales: ['en', 'zh', 'id'],
-  defaultLocale: 'en',
+  locales,
+  defaultLocale,
   localePrefix: 'always',
 });
 
 export default function middleware(request) {
   const { pathname } = request.nextUrl;
 
-  // Skip middleware for admin and API routes
-  if (pathname.startsWith('/admin') || pathname.startsWith('/api')) {
+  // Admin and API routes: skip entirely, no i18n processing
+  if (pathname === '/admin' || pathname.startsWith('/admin/') || pathname.startsWith('/api/')) {
     return NextResponse.next();
   }
 
@@ -19,5 +23,5 @@ export default function middleware(request) {
 }
 
 export const config = {
-  matcher: ['/((?!_next|_vercel|images|.*\..*).*)'],
+  matcher: ['/((?!_next|_vercel|images|.*\\..*).*)'],
 };
